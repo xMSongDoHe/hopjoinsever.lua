@@ -1,1 +1,938 @@
-return(function(...)local K={"Vap1MUpKVZT";"Vo4sN[,(qZQBArQg4)Lsl,(qSsBn,NiB]T>c,(qSsBG?MMAR-%4,(($","VV_ks$";"V-f5-","VY*tR`o4s?B,(qSsBGFtflW\'up,(oOZBGf!%rd2-p,((OMBUX^DjU_t6,(qk-Bj\'AW+1:OH","V^c0$ae1V7RIL(NE";"V,b?[a\\SVu#klPIudrdYmK\"kEBW\'oMV,((OMBU;W)WUoQHBGFtfjU_t5,(qSsB@l3OlW\'\\$";"Vd\\<fG^rhamp\'QSA\\<","V^-TF1Q,>\\SVAUdGJBV";"VVP6$*Ib&j8HEA";"V@a=NKpaS\'?^XP(3";"Va2Dj\"JOkKH\\8MY_","V@ojCRu\"P.g","VHdb\']QEdEp@Z\"M\\p>","V\\UD0rdrIO\'6*[cNJB%2","V\\l\\$lHB$";"Vniok2drg","Vnb00ae1V4]p#U";"Vnb00ae1V4_dX:8";"VpKK<ReH";"VCLS8Bpb-73p#Z6^VT)i","VGC5RXaHi/k:Y283qP.n.a@b","Vnb00ae1V4ip#b`Up8","V,#Ipb,(qZQBGf!%t,sZ`,(:UjBUdqYt,sZ_,(q[IB*`uE<^AkT,(:`<BUK>14)Ls+,(q=Zu\"P.go4sE`,(qc=BUYWTl)H:I,(o6>BUK>1B]f8X","VC=T#\'e5%gYdgY][p#ru3d6";"V\\SVu#pKKm89c=`#d6","V@Ic[S9n+%\'pLJ","V\\F(YgI,T,!n,Ip&ap-l!";"V\\/;h9I=RpEdrpTMINBA[a\']!u","Vu1J)PdmjL/dr9";"VI$A!,ppl:*nqgqt@=F","V*u";"V,#Ipb,(o6>B*`u?gJ?r_,(oGRBj\'AWW\'oMa,(qsf","VHo@@0I[";"V@IIt@";"Vn,Z4EdrIn\'e\'";"Vn<OX,USo2Vkqk!h\\S\'";"VHqclQa^";"Vn,Z4Edrp&";"VJGM\\?VVI15C]]knI$B";"VVP6$(a]mH?a%La","V@ojCR\\fDL";"VH?)l,dYEZ0";"V\\f;a[HE\\(";"V\\+?FJ","Vd0c;Td6";"VY*tRj","V@ojCRumAIdI[","VJl=G0I<kuWV_R\\H*r","V\\SVu#CbHV\"@qS!BH\'J2","V9REEOH?9e&s5Tu&\\_\"";"V,#ZG;,(q<UBG+>h;l8OR,(qL*BArQgrM9q=,((m3B*][&ACXYIod:4[^gRfhBn_/L+1:OHod6u/pG";"VC=T6Bdri<:a%Le^drdcCe1Y8!V_,<\'u1aR#";"VY*t\'HoeP4Le1Vk3,((eRBCu%4+1:.G,(oOZBGf!%j/RBd,(qHCBj\'AWAR-%N,(q4GB_8=AL[ZdK,(qk-BA[VX+1:O\',((HTBUdqciC/Ydo+8O4W\'oMH,(q_dBG+>h;l8Bu,(:CrB@tDOWp$P&,((OMBG?MM+-;ma,(qc=BC`2&)E";"VCLS/Eap-l!";"VaH!i^","V\\fDVadrp9Fa@a;Y9)","Vum_3.\\/;h9ILqF?di)%;a^","VH:?eSVP5pC@\'AbiQM","V^rMr59C[g$";"Vn,Z4Edrp,4oUtZN","VY*t,7","Vn,Z4Edrp,4oUJi","V^rg)","V9c67V^-\'Ghu4<j-","Vs`","Ve1$08I&k";"VCb;>Vs5?\\e*/TM_nq,","Vap1-eH?rH%","VG+6\'IHE>8V\\GV3ba%L9";"VG+=ABpG";"V\\l\\$lH\'\\m&a]q68d6","V!JNosJ[NVgeW]XC","V^VE(Gdr9","V^rML,a9Ztm9Cl","VIQ]\\]VCtVJ*lW>dsH","Va`/4kpG";"VV_k@_dt6r=pJ5hNdrrt6J[_","VpK:D]J-";"VY*4)FoeP4Le1Vk3,(q#aBG+>M;>U$>,((eRBn_/;iC/Y;,(q,JBA[VX+1:OH,(q#aBG5q%Wp$R(,((+SBC!uEBUK>1+1:.d,(q,JBUdqYt,s7Z,(q_dBGmcSj/R/,,((eRBCrnj;l8B:,((eRBUX^DACX5&,((L>BGFtfj8@WC)&X.","VC=+#:!sI\'ka8JPhnqR";"V\\+.5j9@-9[6*2","VVT)<HdrpTK9PU","VC#GB>n<e>_H_","VY*tP>o4sE`,(:!4Bj\'AWiRCKS,(qZQBj\'AWAR-%[,(:M","V*piU%\\2n269YLsN","Vpbq^AnsIORnsCa/\\,","VI&2T(dYEZ0HR";"V@:iY?paY]+pl","VY*tR`o4sEQ,(qL*B@tDOWp$R^,(q_dBG2V^Bn<XWl#MG,,(:MiBCsFt+-;;Y,(q,JBA[VX+1:OH,((L>BGFtfj8@WC","V^rML,a9I%+dg5","VCbIU+9^OkKHpr&9!;q","VY*tR7o4sEQ,(:`<Bj\'AWiRCot,(qe";"V6,";"VCNZ,$I,3bZeQGcipK<";"VpKK/","V\\+.N;ppa%qkMt/&dXi";"Vnb00ae1V4[e5ioS";"V@?lA&9A#r","V,b4t)BCPE\"Bj\'AW;>UNa,((eRBCrnr2qd6$,((eRB@l3];l8Buo4s?B,(:qmBUdqYl)H:=,((HTBCu%giC/Y3od6u/peg1WLd.^G,((OMBGFtflW\'\\Y,((OMBG([3;l8OP,(q,JB*P,5;[";"Vn,Z4Edrp,4oUa>","VuNYJSIW9@@@E`fY";"VV@kHNHl$]#dV2NWaF)g.dQL`","V\\*apCd6";"VnbYejpLJ","VC=Tl]9nj;hdrpT7Hl#V!J-";"V@.##Nd6","VUF<jedjSm4em4Z>p#t";"VY*tR7o4s?B,(:qmBUdqYl)H:=,(q,JBG?MMX`I#$,((2hB*P,5Wp$Rq,(q_dB9%^7;>UNC,(qk-Bj\'AWiRCot,(q4GB_8=ArKA\'L","VuQ`_$HpXeMns%$0";"VH7:jgu&cg>HoQ?u","V,b4t)BCPE\"Bn,NigJ?rI,(qc=Bn<XLWp$Pb,(:)tB*F6";"V,b4t)BCPE\"Bj\'AW4#qH`,(q_dB*A_b+1:O.,((b`B@l3OACXY9,(qL*Bj\'AW+-;;.,(q2:,(oGRBG5qZACX5b,(og8BUdqY+1:OH,((L>BGFtfj8@WC";"Ve4S(ApWT/md0S,N";"VQ!%iP!?:&d!q=\"e";"V\\8n+^pN+`Ap#u6Mpb:`o","VY*4U=o4sEk,(q<UB9;tK;>UbR,(qk-BGFt>iC/YJ,(og8B*CH$l)H:W,(ojSB9IWqgE%[B,(qs";"V,#Ipb,(q4GBG:1W9Csjh,(q<UB9npogJ?r;,(:MiB*`u?AR-od,(:`<BUhc5l)H:=,(qc=BUhc5B]f8X,((eRBCrnr2qd6$,(oGRBArQg+1:O_,(qZQBG?MMr\'";"VHo7=SHR";"V^mVW+J/&Tt@d0[rp?I","VdcpOq9@C","Vd,pANQ=?-sILU.]e`","V\\SVu#VA4.<VjO*XutW4,";"Vo4sNB,(quVBGf!%t,sZt,(:`<BGFt>iC/YJ,(og8BAM&i+-;;[,((+";"V^VEjAdrImXpK4Ira7h";"VUG8[ie5C*o:S%mO)m%tMKrXdtaFskTaF)g.dQL`","Vum_k?a\'OHFdV[E","V,$$\\";"VdYFNlHJYRl@J->uQ[";"V^5kt$6Fc::6Sonq-fI","VY*tR4o4sNB,(q4GBGf!`;>UNn,(q:kBG5qZ;l8BW,(qsf,(q4GBG:1Jp$1nLo4s?E,(:`<BnJ?T9Csr";"V@\'\"s<n;1Vte5[Ch","V!K#EeaON1m-fanOne","VU9MT#UPVs";"VY*4)Fo4sNB,(oeTBA[VXlW\'\\Y,((OMBG([3;l8OP,(q,JB*P,5;>UNI,(:qmBj\'AWj/RB@,(ogE,(oGRBG5qZACX5b,(og8BjR?;+-;;.,(qF%)&g";"VY*t?RoekM$Hl\"Ci_cQIf,(og8Bj,BLACXY9,(q2:,(q,JBUhc5Bp+1[,(qZQBG?MMrE$Z@e1k","VCN[[_e1Vt";"VY*4)FoePrlHE8\\SUD)%uWp$R(,(:)tBArQgj8@W-,(q,JB*P,\"t,sZd,(:UjBA[VX4)Ls+,(q6";"Ve(-+b","V@H+6/dXl*QCWc^>Cl";"VpKKmF","Vu1J)Pdt=`$dX13Ra^","VC=mZ6@BT","V!\'Hi","Vn,Z4Edrp,4oUtM","V,#Id-BCPE\"BUK>1+1:.G,(o2MBALo4L[Zd9,((OMBG([3;H=1TQQ_H1sW2)";"V,#Ipb,(qZQBGf!%t,sZ`,(:UjBUdqYt,sZ_,(q[IB*`uE<SKMbj/R/.,(q<UBA[VXlW\'\\N,((eRBCrnr2qd6$";"V@IDFPdVrI1e`";"Vu1J)PdtGlpJhI";"VV0D3iQ&rG4Vuk,d";"VH[:b)\\F7M_nql7@Uhg";"Vn,Z4Edrp,4oUtX";"VC=TcBad6$4Ho7TK";"Ve\"5h8ni.[rJe=%_d5H","V9R6\\D9@C";"Vp=YF","V,#Id-BCPE\"BUK>12JBrJ,(oOZBALo44)LkZ,(q[IBUdqYlW\'uH,(q_dBA[VXA[E";"V,#Ipb,(oGRBG5qZACX5b,(og8BG([3+1:.d,(qZQBA[VrWp$PD,((+SBn?>%e5C@:,((eRB*pL#;>UNL)&X.","V\\l\\$lH\'\\m&a]q68dt\\r2Hqr6Ka^";"V,#Ipb,(qZQBGf!%t,sZ`,(:UjBUdqYt,sZ_,(q[IB*`uE<SKMbj/R/.,(q#aBG+>hW\'oh5,(q4GB9;tK;?nC(","Vdc]bqCa.h","V^Y%YJI&6h=H7GTe9u@","V@ojCRCNOt&","VC#1J,a\'j0","Vn$BPD682J:Ik\"Z:!p?","VVP6$setpuYH?so","Ve1$0`I&K7f";"Vn,Z4EdrI22p)+rkpWM";"V@6p]1^rML,ae3m`d6";"Vu0jpOC#f_kumRSNC8";"V\\/D*eHO?F&p#t";"VG+=i?dV[>","V\\SVu#CbHV\"\\f%QJ","VnQ^3<";"V,#Id-BCPE\"BUK>1+1:.G,(o2MBALo4L[Zd9,((OMBG([3;6\\ts)<t=^";"VGj5","V\\F(YgI,T,!CNOt&";"V\\fZfJdr9";"Vn,Z4idtSp";"V@ojCR*9S?Ce-A4fpLJ","Vdt\\8f*\'0B6H]O%-Vs","V\\UZ^up>";"V^(G\\sutY,aH%J(\'^6","V@or1_HqrE*CNu>0e5%[";"VVP6$9drpTK9PU";"VCND`$^^,6X","VY*4)io4sNB,(oeTBA[VXlW\'\\Y,((OMBG([3;l8OR,(qL*BArQXL[Zd`,((2NKq]AS,(:UjBn<XW;>UN;,(oGRBG+>ht,sZm,(:)tB@1:\'gqJL[,(($&V@kHNHl$CFQa+=`Bn<XWl#MG,,(:MiBCsFtj/R/.,((HTBUdqciC/Yd,(q_dBG([3;l8OP,(q,JB*P,5;[","Vd1]@dVC/=1u,8n$","V\\SVu#CbHV\"C#1J,a\'j-?9AZG","Vnb00ae1Vt","V@[3uXHEFL.a7h";"V@?lXRaO[`+pLZ\'Gu\"PDWe(l`";"VdYE:Y","V!a!I0pp?Q(nW.Wt","VJ9Uk:","VVP6$QdriG0p=$sYaHV";"VCp<<G9ANtsp#r5N","V@ojCR";"VJeKpUdXq+0d6";"VVC6#Tpa0E`n!\'_2^6","Vuthb+","V\\l4.6aI?","VdcAm%!)1MjC`3M6";"V\\*adUe\\hD-p=EON9COK79@qDT9TW";"VCNZ,$I&>a6H]QoAe(+JLI,*Ui","VGVVoQK5q,","VI,*<)H_";"VQK-!G^496?JU_l6@IG";"V,#Ipb,(qZQBGf!%t,sZ`,(:UjBUdqYt,sZ_,(q[IB*`uE<h4]^","VCNu,_u1J)Pdmn<[ap1hEJhJ4-","V@770;!qW97CqQ-nsH","VK#","V@?-E]p#gr","Vo@[2(rOrImo4sN\',(qL*BArQg4)LsX,(q\\\\BUYWTgJ?r_,(om";"Vn<DBe9PsJFpLW0FdrplTpKg?","VVtLZpp#ZWD@?>W7u4I";"VCNZ\\td6","VUF<jedjF","VY*tl`oeP4Le1Vk3,((eRBUK>12qdL<,(qL*BjR?;+-;;[,(qSsB*pLNB]f8r,(qk-BG$*uB*A_bj/RBU,(qc=B*5Sa^LETSgJ?r2,(q\\\\Bj\'AWAR-%[,(:M","VaI#uFHqrE*";"VY*tl`","V\\l\\\"2dg##","Vu\"Rueapq\\on,Z4Edrp&";"Vp#/";"Vu1J)Pdmn<[ap1hm","V\\F*pupLJ";"Vu\"P.g@6p]1p==eY";"VGVVoQK5q,c:F)C460brfKkY";"VnbY@OuWO;8pqU(tIe";"V@qlY&eH","VY*4U=o4sEk,(q<UB9;tK;>Ubc,(oOZBGf!%rd2^Q,(qSsB9%^`jU_tl,(oGRBG+>hg<t*-e1-ZmBj,BLACXY9,(ql";"V\\SVu#CbHV\"\\l\\\"Xe5=","VY*4)Fo4sEs,(:MiBArQg;l8OY,(q:kBj\'AWACX5r,(qc=BUK>0<^A(!,(q@^BArQglW\'\\B,((eRB*P,\"gJ?rE,((eRBn<XWrE??`drpT7HlN&kpb:^\\H2O";"V,#Id-BCPE\"BGFtfj8@Ja,((eRBUX^DACX5&o+8O4W\'oMH,(q_dBG+>h;l8BI,(:`<BGFt>iC/YJ,(omD)&g","VC=T[\'aI$D.p=2$Mp#q";"V@IctRHEq6)";"Vn,Z4Edrp,4";"V!\'a6J@ZfB=HBrT5","VV_,<\'u1aR#um_3.C=Tl]9nr";"VVA4.<VA40.a9s]jI&7";"V\\l\\$lH_";"V*]RQY9@oV]QqAh`a]%","Vs,AfQ^0\\Kk@`SM:dE","VUS*H.s;dH`s&\"L*INf";"Vdc`I%H_";"VY*tR4o4s?B,(q_dBG+>hgE%[;,(:`<B@l3OlW\'\\$od6u/peg1=4)Ls+,(qL*B*CH$W\'oMZ,(:q","VVR]7r\\PQscJF?(D";"V^rM:/","VG+=Jj";"Vp\'!1Q!p60IQij,g^E";"V@ojCR\\l\\$lHB$";"V\\3SR@HE.E;dYa;\"UFM";"V\\fZfJdrI*2JhJ2";"VpKKk5dcpLRdr9","VV_,<\'u1aR#";"VH`Q=]9A#(]Vc`S^nM","Vu\"P.g","Vn,Z4E","V!L\'t9Je0/GeL8";"V!\'HW";"VVjOKea7!d)QE2<m!G";"VpN`0ZUZ3-Ba/Y-*";"V^cWsQdq";"VVR<L]9CXU;I&7","V^rM:/^^,l]H_";"VY*tl`o4sNB,(q4GBGf!`;>UNn,(q:kBG5qZ;l8BW,(qk-BjR?;+-;;[,(q3cu\"P.g";"Vu4oH;I#FPA6Fp3";"VVP\"?ad5-DW!.]n\"";"V^^,6Vp#u6Mpb:%maH&0","Vnir";"V-fF%9I<i99a7nAc";"Vap-rZ";"Ve1^3ZHE]";"V)D`U2";"VY*t?Ro*4s+W\'oMM,(qL*B9npo++tI<BGFtfjU_t5,(qSsB@l3OlW\'\\$od6u/pG";"V,#Id-BCPE\"BUK>1+1:.G,(o2MBALo4L[Zd9,((OMBG([3;6\\t%sW2sFqPP`?";"V","VVu!E-e;*?%pJmhR","V->b12oe`H@\\4#@QCE6Q2";"V\\lV3]drI2_d^:Q:";"VCNOt&","V!ob&?@Jl]=d^-me","VY*4)Fo4s?B,(:qmBUdqYl)H:=,((eRB@tD[2qd6O,(q:kBG?MM;l8B:,(:`<B*5SU9Csjh,((m3B*CHNWp$PP,(:)tB*][,Ld.^G,(qL*BA;";"VJhJ1C@qUkM*2$agCG","Vn,Z4Edrp,4oUJ3$";"V\\+.5j9@-V\'a%c\'Qp#q","V@ojCR@q>p?a`/4KdX>FZ";"VaenTb\\PP_S*]%ZuH_";"V\\/D=jaSTXB9Pemb9COQK";"V\\UM_ZaHpJ@","V,#Id-BCPE\"Bn<XWl#MG,,(:MiBCsFt+-;;Y,(q,JBA[VX+1:OH)&X.";"Vap-\\8","Vu1fiu9^O[kI\"hjH";"V@os,\'\\F/(iH\'G..HBr\\";"V@:iY?pJfoNJh5Jf";"V@J0orVr+*fJBs@+";"VY*tRjodFTp,(q4GBG([3;Htrqj7Z","V\\SVu#\\Gge1p#KDBI,**";"V@Ic5>a7%`.68=&=";"V@or1_HqrE*@q/r;9n<5GpLecKp=2-","VdDhDo","Vu0I]BkMmMRe&p,^","Vd(r9@QN!hR\\jaa@!8","V@6pC^681&c6C:-n";"V^cYl=n)@\'[^Y@\\q\\2^","V,b4t)BCPE\"BA)Y<j8@WC,((eRBCu%4+1:O,,(qk-BA[VXlW\'\\+,((2hBG?MM;HL4:dVrTK^uWd?";"VCNZ,ldXfFBe\'","VadS(Ed4,/7Ibb0HI<[","VY*tcMo4sEs,(q7!BG?MMgJ?rl,((m3BG([3t,sZl,(q:kBG+>MiC/Y3,(q,JB*P,\"trAd8dQV","Va\'`)q9P>","V\\SVu#pKKm890.2eJh8J\"e0m*","VH$npus<pYsJ8DI\"@_";"V\\SVu#CbHV\"\\8n+daIeu\\aM?$";"V->n4=JMs3-9^b)c";"Vu\"P.gCNu>0drepaJ[_","Vn,Z4EdrI%=dV[u","VVT)<d9Ar=.a^","V!#]cqescE1k%G^B";"VV_k@_dmOemd-\\[2CNu>0dr9","V*l;V&ut=e\"!E5-/C8";"V*r";"V@or1_HqrE*o9[$gI&Vq";"VCEVS\"Qqp=@CEGQ+","Vu1J)Pdmn<[ap1hm\\/D=6Ie";"V@qSJ\"dtG<ddX]","VVC$\\?";"V\\+?FJC#0h>I;0","VaId_Dd6";"Vd4%1$u47OqIsJ.g\\U1","VCNZ,$I&>a6H\'GO$9R8TYa`P";"V^VE(GdrI.bp>";"VJB^\"I^,roqQs\\dmnK?","VY*tcMo4sEs,(q7!BG?MMgJ?rl,((m3BG([3t,sZl,(q:kBG+>MiC/Y3,(q,JB*P,\"trAdKKs","Vu;A<0Ik73LeQ64p*r";"Vn,Ip&ap-l!","V@IIt@QM";"VY*tR4o4sE`,(qc=Bj\'AWiA>Fg,((2hBG([3j8@JJ,((2hBGKdu)E";"V@ojCR\\Gge1p#q";"V@q8c.","VaIe\\o","V\\f%QJ";"VaIN>YJ1","VY*t?Ro4sE`,(:8;B*!GEgE%[9,(q4GBUX^D;>UNV,(qk>@q8c.oUf]Yo4sEQ,(q<UB9IWqt,sZn,(:`<B*P,\"+1:Oc,(qZQBjR?;gJ?rL,(:MiB@l3Ol,";"VVR<L]9Ct","V^VE(GdrIojaHpJ@","VubiGJ";"VV_iDXd6";"Vu\"P.gV_iDXd6","VJ2\'a6s1d0snWk4lHJf","V^rM[,I;DajHE>8V";"VC#>X2driY";"VC#1J,a\'j-?9AZG","V\\*adUe\\hD-p=Eo4I,*Ui","V\\8n+(H.\'#R","Vd\"j<7JBZ_YCLSN\\*u";"V@6p]1^rML,ad1.5Jh5Jf";"VsiqUUn,Q!X*h9=SpG";"Vd0MKYpNRk*Qiu\\Wu&5","VHHG\\Ta/14\"s<\'L/d6","Va7`JnpWM";"VnWQ","V\\lV3AVT)i","VCs1MBCa,4#stJ3!","V^mm[lBUK>1+1:OH";"V^rML,a9s]ipW7<5","VIk_@=kp?3Q^,dI19X:","Va>k@3Iq[,O\\P#;2I;="}local function b(b)return K[b-41624]end for b,S in ipairs({{1;367};{1;54},{55;367}})do while S[1]<S[2]do K[S[1]],K[S[2]],S[1],S[2]=K[S[2]],K[S[1]],S[1]+1,S[2]-1 end end do local b=string.len local S=K local e=type local M=string.sub local N={["/"]=57;H=28,["5"]=0,c=44,u=1,w=58,S=23,T=8,G=53;N=63,X=32,D=51,["7"]=34;["3"]=52,R=35,K=45;l=59;["+"]=4,Q=17,E=9;f=11;n=18;["2"]=60;j=29;U=31;a=6;Y=5;i=24;k=61;q=14,b=7;M=49,B=42;["0"]=27,e=20;Z=10;z=54;F=2;V=55,x=21,A=36,O=16,["1"]=25;t=12;C=41;["4"]=56;["8"]=48;P=39,h=62,p=3,["9"]=46;d=50,["6"]=37;r=15;I=22,o=13,g=19,v=40;L=38,s=47;J=43,W=26;m=33,y=30}local Z={["9"]=31,[","]=72;K=13;["2"]=58,["3"]=0;m=46;I=34;G=30,["/"]=56,M=5,["@"]=27;T=82;["8"]=2,i=44;[")"]=14;r=51;d=32;E=66;B=59,c=78;Y=77,C=26,h=4;["["]=60;p=35,["("]=19;["\""]=73;o=10,n=25;F=1;["."]=64,f=83,q=11;["`"]=8;["]"]=62,N=68;[";"]=43,["?"]=65,k=18;["="]=40,["&"]=71,["\\"]=21;[":"]=12,Z=6;H=36,["-"]=20,J=38,P=80;b=70,["1"]=75;["<"]=45,["5"]=74;_=54;["0"]=76,j=52,U=29;g=49,O=61;Q=16,u=24,W=41;["#"]=69,e=33,[">"]=84;S=3;["4"]=48;["7"]=9,A=53,l=57;["$"]=67;["%"]=7;s=15,X=50,["\'"]=63,["^"]=23;["!"]=17;V=22,R=81,D=79,["+"]=55,["*"]=28;a=37;L=42;["6"]=39;t=47}local h=table.insert local m=table.concat local v=string.char local L=math.floor for K=1,#S,1 do local O=S[K]if e(O)=="string"then local e=M(O,1,1)if e=="1"then O=M(O,2)local e=b(O)local Z={}local Q=1 local V=0 local k=0 while Q<=e do local K=M(O,Q,Q)local b=N[K]if b then V=V+b*(64^((3-k)))k=k+1 if k==4 then k=0 local K=L(V/65536)local b=L((V%65536)/256)local S=V%256 h(Z,v(K,b,S))V=0 end elseif K=="="then h(Z,v(L(V/65536)))if Q>=e or M(O,Q+1,Q+1)~="="then h(Z,v(L((V%65536)/256)))end break end Q=Q+1 end S[K]=m(Z)elseif e=="V"then O=M(O,2)local e=b(O)local N={}local Q=1 while Q<=e do local K=(e-Q)+1 local b=K>=5 and 5 or K local S=0 local m=b>1 for K=0,4,1 do local e if K<b then local b=M(O,Q+K,Q+K)e=Z[b]if not e then m=false break end else e=84 end S=S*85+e end if m then local K=L(S/16777216)%256 local e=L(S/65536)%256 local M=L(S/256)%256 local Z=S%256 if b==5 then h(N,v(K,e,M,Z))elseif b==4 then h(N,v(K,e,M))elseif b==3 then h(N,v(K,e))elseif b==2 then h(N,v(K))end end Q=Q+b end S[K]=m(N)end end end end return(function(e,m,Z,K,h,N,M,Q,G,w,i,a,v,I,L,g,Y,j,q,V,O,S,y,k)i,v,O,k,G,q,y,Y,V,Q,g,L,j,a,I,S,w=function(K,b)local e=V(b)local M=function(M)return S(K,{M},b,e)end return M end,{},function()Q=Q+1 L[Q]=1 return Q end,function(K)local b,S=1,K[1]while S do L[S],b=L[S]-1,1+b if L[S]==0 then L[S],v[S]=nil,nil end S=K[b]end end,function(K,b)local e=V(b)local M=function(M,N,Z,h,m,v)return S(K,{M;N,Z;h;m,v},b,e)end return M end,function(K,b)local e=V(b)local M=function(...)return S(K,{...},b,e)end return M end,function(K,b)local e=V(b)local M=function(M,N,Z,h,m)return S(K,{M;N,Z;h;m},b,e)end return M end,function(K,b)local e=V(b)local M=function(M,N,Z,h,m,v,L)return S(K,{M,N,Z,h;m;v;L},b,e)end return M end,function(K)for b=1,#K,1 do L[K[b]]=1+L[K[b]]end if M then local S=M(true)local e=Z(S)e[b(41850)],e[b(41927)],e[b(41749)]=K,k,function()return 2853702 end return S else return N({},{[b(41927)]=k,[b(41850)]=K,[b(41749)]=function()return 2853702 end})end end,0,function(K,b)local e=V(b)local M=function(M,N)return S(K,{M;N},b,e)end return M end,{},function(K,b)local e=V(b)local M=function()return S(K,{},b,e)end return M end,function(K,b)local e=V(b)local M=function(M,N,Z)return S(K,{M,N,Z},b,e)end return M end,function(K)L[K]=L[K]-1 if L[K]==0 then L[K],v[K]=nil,nil end end,function(S,M,N,Z)local D,q,qU,R,aU,F,l,ZU,o,r,YU,IU,s,KU,P,B,f,gU,p,GU,Q,C,n,eU,J,VU,u,HU,V,hU,yU,t,NU,c,A,LU,L,k,z,QU,pU,PU,m,XU,W,E,H,T,mU,MU,SU,X,vU,OU,bU,d,iU,wU,U,x,jU,kU while S do if 8471754>S then if S<3890605 then if 1874862>S then if 958089>S then if S>504605 then if S>710269 then if S>849887 then if S<866713 then c,S=z,s S=2727514 elseif S<883976 then S=7741351 elseif S<901749 then H,S=nil,4998490 else S=p and 1213475 or 14605236 end else if 739239>S then Q,L=b(41864),M[1]S=v[N[1]]k,V=L,S S=L and 4108040 or 1416181 elseif S<782331 then S=c S,T=11534791,C elseif S<825981 then p=b(41904)X=v[N[3]]V=X[p]S,m=9255673,V else X=k X,S=nil,11310005>=9608899 Q[p]=S S,p=102709,nil end end else if 622932>S then if S<591059 then if 541450>S then S=10864048 elseif 569851>S then L=O()S,P={},b(41854)v[L]=S S=v[L]Q=b(41852)H=v[N[1]]m=H[Q]H=11504503>3147682 S[m]=H S=v[L]q=b(41854)Q=K[q]q=b(41910)H=Q[q]Q=b(41905)m=H[Q]H=10995253<14387390 S[m]=H m=b(41797)S=K[m]k=S p=K[P]P=b(41910)X=p[P]p=b(41893)V=X[p]q,S=V,V and 5726978 or 3039380 else m,S={},K[b(41751)]end else if S<601868 then p=b(41876)X=k[p]S,V=12546050,X else m=b(41712)H=w(6471781,{N[1],N[2];N[3];L})S=K[m]L=I(L)m=S(H)m,S={},K[b(41925)]end end else if S<647703 then L=b(41651)m=K[L]L=b(41873)S=m[L]L=2 m=S(L)S=v[N[1]]m=S()m,S={},K[b(41928)]elseif 662677>S then S=v[N[1]]p,m=b(41855),b(41719)m=S[m]m=m(S)q=v[N[2]]L,X,k=m,b(41855),b(41706)Q=q[k]q=b(41710)H=Q[q]V=v[N[2]]k=V[X]V=b(41710)q=k[V]k=2 Q=q/k m=H+Q Q=b(41710)H=L[Q]S=m+H k=v[N[2]]V=b(41706)q=k[V]k,H=b(41632),S Q=q[k]X=v[N[2]]V=X[p]X=b(41632)k=V[X]V=2 q=k/V m=Q+q q=b(41632)Q=L[q]S=m+Q k,m,X,Q,q=15633599>=15616397,b(41888),b(41817),S,0 S=v[N[3]]V=K[X]X,L,m=1,nil,S[m]m=m(S,H,Q,q,k,V,X)q,X=b(41651),b(41817)m=K[q]q=b(41873)S=m[q]q,k=.1,7383729>14765213 m=S(q)S=v[N[3]]m=b(41888)V=K[X]q,m,X=0,S[m],1 m=m(S,H,Q,q,k,V,X)m,H,S,Q={},nil,K[b(41643)],nil elseif S<679418 then S=v[N[2]]Q=b(41723)H=v[N[3]]L=H[Q]m=b(41664)S[m]=L m,Q=b(41876),b(41691)S=v[N[2]]L=b(41836)S[m]=L m=b(41929)S=v[N[2]]H=v[N[3]]L=H[Q]S[m]=L S=15091457 else T=b(41876)A=p[T]T=b(41933)u=A==T r,P=S,u S=u and 13396177 or 11274573 end end end else if S>252025 then if 317455>S then if S<282673 then L=O()H=w(14178809,{N[1],N[2];L})v[L]=M[1]L=I(L)m=b(41712)S=K[m]m=S(H)S,m=K[b(41962)],{}elseif 302624>S then q,S=b(41854),3425667 Q=K[q]q=b(41630)H=Q[q]L=not H m=L elseif 314292>S then L=b(41651)m=K[L]L=b(41873)S=m[L]L=3 m=S(L)S=m and 7011989 or 12238954 else m,Q=b(41877),b(41947)S=K[m]X=b(41902)L=v[N[1]]H=L(Q)Q=b(41747)L=K[Q]V=K[X]X=b(41950)k=V[X]V=k()k=v[N[2]]q=V+k Q={L(q)}m=S(H,e(Q))m,S={},K[b(41692)]end else if 332532>S then S=T S=A and 2858303 or 2922958 elseif S<386404 then S=b(41722)S=bU[S]S=S(bU)S=7207715 elseif S<451771 then S=5461289 V=I(V)k=nil else x=v[N[6]]s=x[r]S,x=1041304,b(41723)z=s[x]s=b(41722)s=z[s]s=s(z)z=v[N[6]]s=nil z[r]=s end end else if S>124438 then if S<137981 then H=v[N[2]]m,S=H,13742245 elseif 175068>S then V=b(41874)V,m=H[V],b(41797)S=K[m]k={V(H)}V={S(e(k))}m=V[1]k,q,S,Q=m,V[3],16710805,V[2]elseif S<219508 then z=b(41902)D=K[z]z=b(41950)c=D[z]z=b(41679)D=c()c=K[z]z=c(u)C=D-z z,D,s=60,b(41657),S c=T==D D=C>z z=D S=D and 13433648 or 2176632 else L,S,m=nil,K[b(41889)],{}end else if S<91003 then if 52729>S then c,s,U=S,b(41876),S z=X[s]s=b(41672)D=z==s C,S=D,D and 13566339 or 4844448 elseif 68656>S then S,X,p=15768546,nil,nil else S=10528002 end else if S<109690 then k,p=V(q,k)S=k and 837735 or 7103103 else S=P and 14923516 or 11712112 end end end end end else if S<1585410 then if S<1185022 then if S>1071513 then if S<1081535 then P=b(41876)S=p[P]P=S r,S=P,P and 8311567 or 5601817 elseif 1128216>S then p,P=b(41716),b(41758)X=K[p]p=X(P)X=v[N[2]]P=b(41813)p=X(P)P,p=16123142<=2114200,b(41854)X=K[p]p=b(41630)X[p]=P P=120 X=v[N[8]]p=X()X=v[N[9]]p=X(P)P=b(41651)p=K[P]P=b(41873)X=p[P]P,r=45,b(41795)p=X(P)X=16594922<8870205 v[N[1]]=X p=v[N[2]]P=p(r)S=425385 elseif S<1173147 then k,p=Q,b(41639)X=K[p]k,p=nil,b(41951)S=X[p]X=S(L,V)S,V=1312517,nil else X,p=k(V,X)S=X and 8235793 or 7237815 end else if 1038737>S then if 1011787>S then m,Q,V=b(41877),b(41626),b(41817)S=K[m]L=v[N[1]]H=L(Q)Q=b(41747)L=K[Q]k=K[V]V=b(41941)q=k[V]Q={L(q)}m=S(H,e(Q))m,S={},K[b(41793)]elseif 1025250>S then m=b(41721)S=K[m]L=v[N[3]]Q=b(41626)H={L(Q)}m=S(e(H))L=m m,S=L,L and 1385411 or 2387219 else c=v[N[4]]D=c(u)U,S=D,13626264 end else if 1052429>S then S=3005442 else T=v[N[4]]S=9526387 U=T(p)u=U end end end else if S<1385333 then if S<1205029 then S=v[N[1]]H=v[N[2]]Q=H()L=not Q m=S(L)S=v[N[3]]m=S()S=v[N[4]]H,q=S,S k=v[N[2]]q=b(41924)V=k()k=b(41953)Q=V and k L=Q or q m=S(L)m,S={},K[b(41759)]elseif 1262996>S then S=v[V]m={S}S=K[b(41872)]elseif 1348886>S then Q,V=q(H,Q)S=Q and 1172834 or 3433542 else A=b(41904)u=v[N[3]]S=16446958 r=u[A]p=r end else if S<1400796 then k=b(41955)q=L~=k Q,H=S,q S=q and 12902929 or 16601749 elseif S<1483984 then P=b(41852)p=v[N[2]]X=p[P]S,k=4108040,X elseif 1565032>S then H,S=b(41646),15791436>=14776116 v[N[1]]=S m=L[H]S=8000215 v[N[2]]=m Q=v[N[3]]q=b(41646)H=Q[q]v[N[4]]=H else m,S=V,X S=V and 9255673 or 814227 end end end else if 1710560>S then if S<1692899 then if 1594820>S then p=b(41797)V=O()k=2847903>=7145320 v[V]=k S,k=16291473,0 X=K[p]u={X(H)}r,p,P=u[3],u[1],u[2]elseif S<1631412 then q=b(41876)S=v[N[3]]k=b(41912)S[q]=k k,q=14876967~=12336406,b(41854)S=K[q]q=b(41630)S[q]=k S=v[N[7]]k=b(41768)q=S()S=v[N[5]]q=S(k)S=14840177 elseif S<1677476 then u,A=b(41742),b(41649)u,S=X[u],4439651 u=u(X,A)P=u else S=14586780<10193843 L=O()H=O()m=b(41712)v[L]=S S=nil v[H]=S S=K[m]Q=g(1747752,{N[1];H;L,N[2],N[3]})m=S(Q)S=v[L]m=v[H]m={S,m}S=K[b(41990)]end else if 1699273>S then m,S={},K[b(41789)]elseif 1702045>S then k=b(41854)q=K[k]V,S,k=2783035>=16387949,13875691,b(41630)q[k]=V elseif 1702337>S then S=973956>=14924226 m={S}S=K[b(41829)]else S=1363402>6341740 m={S}S=K[b(41946)]end end else if S>1741176 then if 1784942>S then L=b(41699)S=v[N[1]]m=b(41918)m=S[m]m=m(S,L)L=m S=L and 12578196 or 13518896 elseif 1823623>S then X,p=k(V,X)S=X and 7653137 or 16581772 elseif S<1829302 then D,x=S,b(41671)s=K[x]x=b(41871)z=s[x]n=b(41876)x=T[n]n=b(41784)s=z(x,n)c,S=s,s and 4042257 or 2908713 else S,k={},b(41854)L,u=S,b(41854)S=0 q=K[k]H,k=S,b(41910)Q=q[k]q=b(41905)m=Q[q]Q=9650301>9332495 S={[m]=Q}Q,m=S,b(41797)S=K[m]r=K[u]u,X=b(41910),S P=r[u]r=b(41893)p=P[r]S,V=p and 10190258 or 5581884,p end else if 1720651>S then l=b(41892)F=U..l S,d=6497357,F elseif 1726831>S then r,P,u,q=b(41812),b(41698),S,X P=p[P]P=P(p,r)r,S=P,P and 5875506 or 8825842 elseif 1732762>S then S=m and 16521392 or 12758657 else SU,NU=b(41738),b(41637)m=K[SU]SU=b(41834)S=m[SU]SU=b(41985)m=S(SU)LU,SU,S,ZU=b(41837),m,b(41852),b(41647)m=b(41991)SU[S]=m S,m=b(41831),16274606<=16085214 SU[S]=m S,mU=b(41786),0 MU=K[NU]NU,hU=b(41786),240 eU=MU[NU]MU,kU=b(41815),b(41968)m=eU[MU]SU[S]=m m=v[V]S=b(41783)SU[S]=m eU=b(41738)m=K[eU]eU=b(41834)S=m[eU]eU=b(41658)m=S(eU)eU=O()v[eU]=m m,MU=b(41852),b(41665)S=v[eU]S[m]=MU vU,m=88,b(41959)S=v[eU]NU=K[ZU]ZU=b(41834)MU=NU[ZU]ZU=0 NU=MU(ZU,hU,mU,vU)S[m]=NU S=v[eU]m,vU,ZU,mU=b(41646),20,b(41647),0 NU=K[ZU]ZU=b(41834)MU=NU[ZU]ZU,hU=.5,-120 NU=MU(ZU,hU,mU,vU)S[m]=NU m=b(41664)S=v[eU]ZU=b(41860)NU=v[T]hU=12 MU=NU[ZU]S[m]=MU MU,m=0,b(41693)S=v[eU]S[m]=MU m,ZU,MU=b(41783),b(41713),SU S=v[eU]S[m]=MU MU=b(41738)m=K[MU]MU=b(41834)S=m[MU]MU=b(41914)m=S(MU)S=b(41958)NU=K[ZU]MU,ZU=m,b(41834)m=NU[ZU]ZU=0 NU=m(ZU,hU)MU[S]=NU NU=b(41738)m=v[eU]S=b(41783)MU[S]=m m=K[NU]NU,hU=b(41834),b(41750)S=m[NU]NU=b(41705)m=S(NU)NU=m m,VU,S=90,b(41860),b(41733)NU[S]=m ZU=K[hU]S,hU=b(41919),b(41834)m=ZU[hU]vU=K[LU]LU=b(41834)mU=vU[LU]LU=0 QU=v[T]OU=QU[VU]vU=mU(LU,OU)OU=b(41837)LU=K[OU]OU=b(41834)mU=LU[OU]VU=v[T]QU=VU[kU]OU=1 LU={mU(OU,QU)}QU,hU=14,{vU,e(LU)}ZU=m(hU)NU[S]=ZU mU=b(41647)m=v[eU]ZU,S=b(41738),b(41783)NU[S]=m m=K[ZU]LU,ZU,vU=1,b(41834),4 S=m[ZU]OU,ZU=-14,b(41658)m=S(ZU)ZU=m m,S=0,b(41693)ZU[S]=m S=b(41959)hU=K[mU]mU=b(41834)m=hU[mU]mU=0 hU=m(mU,vU,LU,OU)vU=6 ZU[S]=hU S,mU,OU=b(41646),b(41647),7 hU=K[mU]mU=b(41834)m=hU[mU]LU,mU=0,0 hU=m(mU,vU,LU,OU)mU=b(41904)ZU[S]=hU OU,LU=0,-24 hU=v[T]IU,S=28,b(41664)m=hU[mU]ZU[S]=m m=v[eU]hU,S=b(41738),b(41783)ZU[S]=m vU=b(41647)m=K[hU]hU=b(41834)S=m[hU]hU=b(41726)m=S(hU)S,hU=b(41882),m m=1 hU[S]=m mU=K[vU]vU,S=b(41834),b(41959)m=mU[vU]vU=1 mU=m(vU,LU,OU,QU)vU=b(41647)hU[S]=mU mU=K[vU]QU,vU=6,b(41834)m=mU[vU]S,vU,LU,OU=b(41646),0,18,0 mU=m(vU,LU,OU,QU)hU[S]=mU VU,mU,S,OU=24,b(41975),b(41876),b(41852)LU=v[Q]vU=LU[OU]m=mU..vU hU[S]=m vU,S,LU=b(41904),b(41929),b(41637)mU=v[T]m=mU[vU]hU[S]=m S=b(41681)vU=K[LU]LU=b(41681)mU=vU[LU]vU=b(41942)m=mU[vU]hU[S]=m m,LU,S=11,b(41637),b(41841)hU[S]=m vU=K[LU]kU,LU=0,b(41858)mU=vU[LU]S,LU,vU=b(41858),b(41647),b(41879)m=mU[vU]hU[S]=m mU,S,OU=b(41738),b(41783),-24 m=v[eU]hU[S]=m m=K[mU]mU=b(41834)S=m[mU]mU=b(41726)m=S(mU)mU=m m,S=1,b(41882)mU[S]=m S=b(41959)vU=K[LU]LU=b(41834)m=vU[LU]QU,LU=0,1 vU=m(LU,OU,QU,VU)mU[S]=vU LU,S=b(41647),b(41646)vU=K[LU]OU,LU=18,b(41834)m=vU[LU]LU,VU,QU=0,22,0 vU=m(LU,OU,QU,VU)mU[S]=vU m,LU,S=b(41648),b(41691),b(41876)mU[S]=m S=b(41929)vU=v[T]m=vU[LU]OU=b(41637)mU[S]=m LU=K[OU]OU=b(41681)vU=LU[OU]S,LU=b(41681),b(41655)m=vU[LU]mU[S]=m QU,S,OU,m=b(41647),b(41841),b(41637),12 mU[S]=m S=b(41858)LU=K[OU]OU=b(41858)vU=LU[OU]LU=b(41879)m=vU[LU]mU[S]=m m=v[eU]S=b(41783)mU[S]=m m=b(41854)S=K[m]vU,m=mU,b(41867)S[m]=vU vU=b(41738)m=K[vU]vU=b(41834)S=m[vU]vU=b(41649)m=S(vU)vU=O()v[vU]=m S=v[vU]m=b(41959)OU=K[QU]VU,QU=-24,b(41834)LU=OU[QU]QU=1 OU=LU(QU,VU,kU,IU)S[m]=OU S=v[vU]VU,IU,QU=12,50,b(41647)OU=K[QU]kU,QU,m=0,b(41834),b(41646)LU=OU[QU]QU=0 OU=LU(QU,VU,kU,IU)S[m]=OU IU=O()m=b(41976)kU=O()LU=344074>890423 S=v[vU]S[m]=LU m=b(41681)S=v[vU]VU=b(41637)QU=K[VU]VU=b(41681)OU=QU[VU]QU=b(41942)LU=OU[QU]S[m]=LU m=b(41841)S=v[vU]LU=12 S[m]=LU S=v[vU]m,QU=b(41783),b(41713)LU=v[eU]S[m]=LU LU,VU=b(41738),8 m=K[LU]LU=b(41834)S=m[LU]OU=v[vU]LU=b(41914)m=S(LU,OU)S=b(41958)OU=K[QU]QU=b(41834)LU=OU[QU]QU=0 OU=LU(QU,VU)LU=O()m[S]=OU VU=O()S=w(15063979,{R,vU;T})v[LU]=S QU=nil S=v[LU]m=S()m=v[vU]OU=b(41635)S=m[OU]OU=a(1196584,{o;R;LU;x})m=b(41900)m=S[m]m=m(S,OU)OU=b(41651)m=K[OU]OU=b(41755)S=m[OU]OU=y(79297,{R,c;o,LU,x})m=S(OU)S,m=nil,nil v[VU]=S v[kU]=m OU=nil v[IU]=OU OU=O()v[OU]=QU QU=b(41753)m=v[eU]S=m[QU]QU=y(3949945,{VU,IU;eU,OU})m=b(41900)m=S[m]m=m(S,QU)m=v[eU]QU=b(41676)S=m[QU]m=b(41900)m=S[m]QU=g(6537521,{kU})m=m(S,QU)QU=G(10017902,{kU,VU;IU;eU,OU})m=b(41676)S=P[m]m=b(41900)m=S[m]m=m(S,QU)QU=b(41769)m=v[eU]S=m[QU]QU=g(13224897,{VU})m=b(41900)m=S[m]m=m(S,QU)S=v[x]QU=b(41809)m=S(QU)QU=b(41651)m=K[QU]QU=b(41755)S=m[QU]QU=g(531053,{R,x;u,l,t;E;B})m=S(QU)QU=b(41651)m=K[QU]QU=b(41755)S=m[QU]QU=a(5962098,{KU,x;u;E})m=S(QU)m,S={},K[b(41668)]end end end end end else if S<2922235 then if S>2445652 then if S<2679417 then if S<2582111 then if S>2535838 then if S<2558720 then S,u=U,T S=15184999 else U,S=b(41935),11489013 T=v[N[3]]A=T[U]r=A end else if S<2477092 then Q,L,H,S=nil,nil,nil,311315 elseif S<2500747 then q,Q=b(41652),b(41918)Q=L[Q]Q=Q(L,q)S=Q and 11336271 or 15525279 else S=v[N[1]]m=S()S=m and 3870124 or 11411361 end end else if 2604585>S then q,S=V,X S=4628565 elseif S<2626440 then k=b(41797)q=K[k]p={q(H)}V,S,k,X=p[2],1822133,p[1],p[3]elseif 2654106>S then q,V=H(Q,q)S=q and 16777109 or 3428065 else p,S,X=nil,4973443,nil end end else if 2822297>S then if S<2712850 then m=b(41721)S=K[m]m=S(L)H,S=m,b(41698)S,m=H[S],b(41884)S=S(H,m)Q=S S,m=Q and 2013086 or 7748520,Q elseif S<2745293 then U,S=c,D S=c and 15959612 or 7467180 elseif 2781067>S then r=1 P=H+r H,S=P,2660649 else k=b(41766)q=K[k]S=q and 4745177 or 8309697 end else if 2851918>S then S=H and 9335577 or 6987732 elseif 2883508>S then x,C,D,U,T=b(41671),S,S,b(41876),1 A=k+T k=A T=u[U]s=K[x]x=b(41871)z=s[x]x=b(41779)s=z(T,x)S,c=s and 2727514 or 4502184,s elseif 2915113>S then U,S=c,D S=15443084 else r,p,T=b(41679),S,b(41650)P=K[r]A=Q[T]T=b(41785)u=A[T]r=P(u)S,X=r and 4146789 or 6042554,r end end end else if S>2198969 then if S>2340466 then if S<2370849 then m=b(41716)S=K[m]bU=b(41897)m=S(bU)S=v[x]bU=b(41944)m=S(bU)m=b(41854)S=K[m]m,bU=b(41630),13292781<=612638 S[m]=bU SU=b(41854)bU=K[SU]SU=b(41917)m=bU[SU]S=not m S=S and 5525436 or 9052716 elseif 2405494>S then S=m and 2423770 or 12903716 elseif S<2423890 then m=v[N[4]]H=m()S=not H S=S and 6904683 or 13434769 else m,S={},K[b(41983)]end else if S<2229593 then z,C=b(41671),S D=K[z]z=b(41871)c=D[z]s=b(41876)z=u[s]s=b(41915)D=c(z,s)S,U=D and 1036170 or 13626264,D elseif 2277255>S then p,S=P,14409380 v[N[2]]=p elseif S<2321541 then Q=b(41721)H=K[Q]V=b(41756)q=v[N[1]]k={q(V)}Q=H(e(k))H=b(41734)L=Q==H m,S=L,4787625 else S=11199789 end end else if S>2110102 then if S<2115231 then V=b(41783)k=H[V]X,S,V=b(41773),8312172,b(41742)V=k[V]V=V(k,X)Q=V elseif S<2119456 then r,P=b(41781),b(41876)p=X[P]P=b(41698)P=p[P]P=P(p,r)S=P and 2237879 or 14409380 elseif S<2150137 then S=c S=C and 206380 or 9344950 else S=s S=z and 7493068 or 9799928 end else if S<2025860 then if S<1964659 then H,m=b(41721),b(41679)S=K[m]k=b(41736)L=K[H]Q=v[N[1]]q={Q(k)}H={L(e(q))}m=S(e(H))L=m S=L and 9249315 or 5699755 elseif 2015211>S then p=b(41902)X=K[p]p=b(41950)V=X[p]X=V()p=b(41679)V=K[p]p=V(Q)S,V=7748520,20 k=X-p q=k<V m=q else Q=b(41854)H=K[Q]Q=b(41910)L=H[Q]H=b(41707)m=L[H]L=60 S=m*L H=O()L=O()v[L]=S S=0 v[H]=S S=7843840 end else if 2069697>S then S=4099127<5469599 m={S}S=K[b(41894)]else X=v[V]p=b(41852)S=X[p]X=b(41885)X=S[X]X=X(S)u=b(41671)r=K[u]u=b(41871)P=r[u]u=b(41653)r=P(X,u)S,p=r and 906935 or 16740290,r end end end end end else if S>3408589 then if S>3591904 then if S>3746640 then if S<3758699 then S=v[V]m={S}S=K[b(41631)]elseif 3811777>S then U,r,T=b(41876),S,b(41671)A=K[T]T=b(41871)u=A[T]T=X[U]U=b(41979)A=u(T,U)P,S=A,A and 5052775 or 9675773 elseif 3864306>S then S,q,X=9709016,b(41847),b(41637)Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41908)q=k[V]H=Q==q m=H else m=b(41854)S=K[m]m,L=b(41630),14978953~=4497699 S[m]=L m=b(41876)S=v[N[2]]L=b(41969)S[m]=L S=v[N[3]]L=b(41683)m=S(L)S=13527837 end else if 3626946>S then A,p,k,H=b(41632),b(41710),b(41647),b(41646)m=L[H]H=v[N[3]]S=m-H H=S S=v[N[4]]m=b(41646)q=K[k]k=b(41834)Q=q[k]X=v[N[5]]r=b(41710)V=X[p]X=b(41895)k=V[X]P=v[N[5]]p=P[r]P=b(41695)X=p[P]P=b(41710)p=H[P]V=X+p r=b(41632)P=v[N[5]]p=P[r]P=b(41895)X=p[P]u=v[N[5]]r=u[A]u=b(41695)P=r[u]u=b(41632)r=H[u]p=P+r q=Q(k,V,X,p)S[m]=q S,H=11389691,nil elseif 3682811>S then Q=y(11376091,{N[1];L,N[2],H,N[3];N[4];N[5]})m=b(41712)S=K[m]m=S(Q)S=7843840 elseif S<3730445 then S=15672959<=14248414 H=O()L=O()v[L]=M[1]Q=i(13949614,{N[1];L;H})m=b(41712)v[H]=S S=K[m]m=S(Q)m=v[H]S=not m S=S and 4827416 or 3350810 else q,S=6487235~=16040879,13901963 v[N[2]]=q end end else if 3430803>S then if 3415222>S then m,S=16550172>=11876744,K[b(41875)]m={m}elseif 3420570>S then S=v[s]m=S()S=3934499 elseif S<3426866 then S=m and 2467293 or 14047090 else S=nil m={S}S=K[b(41743)]end else if S<3445219 then S=v[N[2]]H,Q=b(41918),b(41714)H=S[H]H=H(S,Q)S=H and 13751903 or 7741351 elseif S<3503187 then u,T=P(r,u)S=u and 16204816 or 3996749 elseif S<3562538 then m=b(41877)S=K[m]k=S L=v[N[1]]Q=v[N[2]]X,k=b(41734),b(41724)H=L(Q)Q=S V=v[N[3]]q=V and X L=q or k m=S(H,L)S,m=K[b(41737)],{}else m=b(41817)S=K[m]m,L=b(41863),b(41973)m=S[m]m=m(S,L)S=b(41880)L=v[N[1]]q=b(41767)Q=K[q]q=b(41834)H=Q[q]q=.15 Q=H(q)k=v[N[2]]S,q=m[S],b(41664)H={[q]=k}S=S(m,L,Q,H)m=b(41936)m=S[m]m=m(S)S,m=K[b(41886)],{}end end end else if 3135005>S then if 3046440>S then if 2998526>S then if 2932950>S then S,u,X=16291473,nil,nil elseif S<2967277 then z=v[N[3]]D,S=not z,750436 C=D else m=b(41712)L=w(1009244,{N[1]})S=K[m]m=S(L)S=14773957 end else if 3022411>S then C,S,c,D=nil,9344950,nil,nil else V={}q,S=V,5726978 end end else if 3075098>S then S=v[N[3]]H=412309<2317164 m=S(H)S=v[N[4]]m=S()H=b(41654)S=v[N[5]]m=S(H)S=10702290 elseif 3097073>S then S=r S=P and 13003308 or 16101370 elseif 3109246>S then Q=b(41742)Q,q=H[Q],b(41628)Q=Q(H,q)m,S=Q,10219101 else S,X,V=16710805,nil,nil end end else if S>3224581 then if S<3314006 then T,S=nil,2922958 elseif 3352607>S then S=v[H]m={S}S=K[b(41949)]elseif S<3378305 then m,S={},K[b(41878)]else r,p,P,q,S=nil,nil,nil,nil,5037771 end else if 3153623>S then S=V S=k and 10534076 or 15391330 elseif S<3162502 then S=v[N[1]]m=S()S=m and 12560739 or 4393716 elseif S<3169344 then P=b(41797)p=K[P]S=3456896 T={p(H)}u,P,r=T[3],T[1],T[2]else V=b(41902)k=K[V]V=b(41950)q=k[V]k=q()Q=k<H m,S=Q,9917190 end end end end end end else if 5694209>S then if S<4822827 then if S>4258151 then if S>4583236 then if S>4689813 then if S<4747725 then k,P=b(41797),b(41766)q=K[k]p=K[P]r=v[N[5]]P={p(r)}p={q(e(P))}V,S,X,k=p[2],5037771,p[3],p[1]elseif 4768949>S then S,X,q=15259359,b(41637),b(41847)Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41908)q=k[V]H=Q==q m=H elseif 4802932>S then S=m and 4279473 or 3354405 else S,m=K[b(41807)],{}end else if 4620281>S then m=b(41712)S=K[m]k=b(41721)q=K[k]k={S(q,H)}m=k[1]q=m S,Q=q and 4015136 or 13585230,k[2]m=q elseif 4630544>S then S=k S=q and 3740949 or 13901963 elseif 4633486>S then L,m,S=nil,{},K[b(41727)]else L,S=M[1],2845534 H=L end end else if S<4460282 then if 4356663>S then if S<4291318 then Q,m=b(41756),b(41854)S=K[m]L,m=12969050>=1689626,b(41630)S[m]=L m=b(41877)S=K[m]L=v[N[1]]H=L(Q)L=b(41724)m=S(H,L)S=3354405 elseif S<4311387 then S,L=1696574,nil else m=b(41712)H=i(13056992,{L})S=K[m]m=S(H)S=609472 end else if 4416683>S then L=O()S=16067697<=10469983 v[L]=S H=g(10700613,{N[2];L})m=b(41712)S=K[m]m=S(H)S=v[L]S=S and 3053501 or 10702290 else p,S=P,r S=P and 13438951 or 4883126 end end else if 4485067>S then m=b(41712)S=K[m]L=a(8034091,{N[1];N[2],N[3];N[4],N[5];N[6];N[7]})m=S(L)S=10864048 elseif 4495703>S then P,p,S=nil,nil,12939389>8700592 Q=S S,X=16090965,nil elseif 4528329>S then J=b(41671)n=K[J]J,s=b(41871),S x=n[J]J=b(41823)n=x(T,J)S,z=n and 862039 or 11490598,n else m,S={},K[b(41684)]H=I(H)L=I(L)end end end else if 4089313>S then if S>3973347 then if 4005942>S then S=12279890 elseif S<4028696 then S,V=13585230,b(41734)k=Q==V m=k elseif S<4056421 then z=v[N[4]]s=z(T)c,S=s,2908713 else m=b(41712)L=O()v[L]=M[1]H=i(317269,{N[1];L})S=K[m]m=S(H)L=I(L)S,m=K[b(41678)],{}end else if S<3936150 then if S<3922179 then H,k=Q(L,H)S=H and 15545363 or 9251677 elseif S<3933885 then X,S,k=b(41790),5312555,b(41854)q=K[k]k,V=b(41630),16364167~=2582396 q[k]=V r=b(41802)q=v[N[5]]p=H..r V=X..p k=q(V)else iU,QU,HU=nil,nil,b(41627)S=v[YU]m=S()m=v[H]S=m[HU]XU,pU=b(41651),b(41651)eU=I(eU)HU=j(7185824,{YU})m=b(41900)m=S[m]l=I(l)m=m(S,HU)m=v[H]PU=O()wU=I(wU)SU,hU=nil,nil GU=I(GU)P,HU=nil,b(41846)S=m[HU]R=I(R)k=I(k)m,VU=b(41900),nil m,qU=S[m],nil HU=j(636392,{YU})m=m(S,HU)HU=b(41651)m=K[HU]HU=b(41755)q=I(q)p=I(p)vU=I(vU)o=I(o)t=I(t)A=I(A)S=m[HU]gU=I(gU)HU=g(2017337,{u;mU;x,f,s})bU=nil m=S(HU)HU=b(41651)m=K[HU]V=I(V)HU=b(41755)S=m[HU]HU=j(15202279,{KU,u})W=I(W)OU=nil X=I(X)ZU=nil m=S(HU)f=I(f)HU=O()S=9296207<5543800 H=I(H)aU=I(aU)J=I(J)yU=I(yU)v[HU]=S m=K[XU]XU,LU=b(41755),nil E=I(E)S=m[XU]jU=I(jU)XU=j(8135599,{HU;x;c,D,z;U,C,s;F})z=I(z)m=S(XU)x=I(x)XU=O()S={}B=I(B)v[XU]=S S=G(14715278,{XU;IU;T})v[PU]=S mU=I(mU)m=K[pU]NU,pU=nil,b(41755)S=m[pU]YU=I(YU)pU=j(2326452,{u,Q;PU,T;r;XU,kU})s=I(s)D=I(D)F=I(F)C=I(C)U=I(U)PU=I(PU)KU=I(KU)IU=I(IU)Q=I(Q)kU=I(kU)n=I(n)HU=I(HU)m=S(pU)S,m=K[b(41907)],{}d=I(d)r=I(r)MU=nil XU=I(XU)u=I(u)T=I(T)c=I(c)end else if S<3943873 then U=v[N[6]]S=3996749 C=U(T)C=b(41854)U=K[C]D,C=b(41970),b(41917)c=K[D]D=c()U[C]=D p,c=nil,b(41651)C=K[c]T,c=nil,b(41873)U=C[c]c=3 C=U(c)else q,X,L=b(41847),b(41637),M[1]Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41903)q=k[V]H=Q==q m,S=H,H and 12406193 or 6999011 end end end else if S>4151129 then if S<4168696 then U,C,X,T=b(41742),b(41726),r,S U=u[U]U=U(u,C)S,A=U and 2221307 or 317641,U elseif S<4204673 then Q=b(41791)S=v[N[2]]m=S(Q)S=v[N[4]]Q=15 m=S(Q)S=12422698 elseif S<4232126 then H=v[N[2]]m,S=H,16285520 else u,V=b(41854),S r=K[u]u=b(41910)p=r[u]r=b(41901)X=p[r]p=2 k=X or p q=H>k S=q and 5338356 or 1701973 end else if 4118215>S then S=V V=b(41952)q=k..V H=Q..q m={S(H)}S,m=K[b(41770)],{e(m)}elseif S<4136454 then S=p and 12573570 or 2115270 elseif S<4145653 then Q=v[N[1]]q=Q()S,m=6824411,q else u,U=b(41679),b(41650)r=K[u]T=Q[U]U=b(41785)A=T[U]u=r(A)r=6 P=u>=r S,X=6042554,P end end end end else if 5145185>S then if 4980557>S then if 4904308>S then if 4865506>S then if S<4835932 then m=b(41712)S=K[m]Q=w(11033420,{N[2],L,N[3]})m=S(Q)S=3350810 elseif S<4846167 then s=b(41876)z=X[s]s,S=b(41948),13566339 D=z==s C=D else S=8309697 end else if 4892776>S then S=p and 12242361 or 3121041 else Q=O()L=O()q=b(41738)H=O()v[L]=M[1]V=b(41713)v[H]=M[2]v[Q]=M[3]m=K[q]q,X=b(41834),10 S=m[q]k=v[L]q=b(41914)m=S(q,k)S=b(41958)k=K[V]V=b(41834)q=k[V]V=0 k=q(V,X)m[S]=k S=v[L]m,q=b(41976),9020435<2420051 S[m]=q S=v[L]q=v[H]m=b(41664)S[m]=q m=v[L]q=b(41708)S=m[q]m=b(41900)q=w(3575597,{L;Q})m=S[m]m=m(S,q)m=v[L]q=b(41827)S=m[q]m=b(41900)q=g(16661628,{L;H})L=I(L)H=I(H)m=S[m]Q=I(Q)m=m(S,q)S,m=K[b(41666)],{}end end else if S<4912395 then u=b(41671)r=K[u]A,u=b(41876),b(41871)P=r[u]u=X[A]A=b(41938)r=P(u,A)p,S=r,r and 4128390 or 3765067 elseif 4925473>S then T=b(41742)T,U,A=X[T],b(41649),S T=T(X,U)u,S=T,T and 47442 or 15112444 elseif 4952894>S then u,S,X,T=nil,9112794,nil,nil else k,p=V(q,k)S=k and 15235534 or 4236829 end end else if S>5061632 then if 5087857>S then L,X,q=M[1],b(41637),b(41847)Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41903)q=k[V]H=Q==q S,m=H and 15259359 or 4750273,H elseif S<5110538 then m=b(41797)S=K[m]Q=v[N[1]]k=b(41874)k=Q[k]q={k(Q)}Q={S(e(q))}S,m,H,L=16646832,Q[1],Q[3],Q[2]Q=m elseif S<5124735 then H,k=b(41745),b(41756)L=K[H]Q=v[N[1]]q={Q(k)}H=L(e(q))m,S=H,H and 2316631 or 4787625 else S,m,L=K[b(41660)],{},nil end else if 4993081>S then q,Q=b(41706),b(41706)m=L[Q]V,Q=b(41855),b(41632)S=m[Q]Q=S m=H[q]q=b(41632)S=m[q]q=S k=H[V]V=b(41632)m=k[V]S=q+m k,V=S,35 m=k-V S=Q>m S=S and 14662934 or 15261277 elseif S<5018130 then S=15628280>5830854 m={S}S=K[b(41974)]elseif 5045273>S then X,p=k(V,X)S=X and 1722738 or 4847886 else S=r S,p=4128390,P end end end else if S>5453095 then if S<5589123 then if S<5493362 then Q,S,H,L=nil,311315,nil,nil elseif 5549263>S then m,bU=b(41854),0 S=K[m]m=b(41917)S[m]=bU S=9052716 elseif S<5577487 then q,S,k=nil,12016627,nil else p,S={},10190258 V=p end else if S<5598566 then S,L=15983021,nil elseif 5601293>S then m,S={},K[b(41780)]elseif S<5645240 then S=r and 4489222 or 15617489 else S,H=9062994<=10452002,b(41646)v[N[1]]=S m=L[H]v[N[2]]=m Q=v[N[3]]q,S=b(41646),8285115 H=Q[q]v[N[4]]=H end end else if S<5325157 then if 5199738>S then t,S=b(41856),8357614 l=v[N[4]]F=l[t]d=F elseif 5277639>S then H=b(41911)S=v[N[2]]m=S(H)S=14938774 elseif 5314495>S then S=13875691 else S,p=14813078,V end else if 5336118>S then S,m,L=K[b(41788)],{},nil elseif 5374095>S then q=v[N[4]]k=q()S=k and 3933272 or 15619827 elseif S<5427367 then S=m and 12418078 or 10681321 else c=b(41902)C=K[c]c=b(41950)U=C[c]C=U()c,S=b(41679),14668478 U=K[c]c=U(r)T=C-c U=v[N[3]]A=T<=U u=A end end end end end else if S>7256752 then if S>7841700 then if 8283031>S then if S>8017153 then if 8084845>S then S=v[N[1]]m=S()S=m and 9851531 or 11965510 elseif S<8185696 then S=311315 elseif 8258370>S then q=X r=L[q]P=not r S=P and 6643575 or 14776278 else m=b(41932)S=K[m]L=v[N[1]]m=S(L)S=8796079 end else if 7878313>S then Q=b(41651)m=K[Q]Q=b(41873)S=m[Q]Q=1 m=S(Q)S=m and 3645681 or 4554475 elseif 7924586>S then P,r=H,S S=H and 4918601 or 3096695 elseif S<7968300 then S,m,L=K[b(41832)],{},nil else L,S,m=nil,K[b(41754)],{}end end else if S>8311869 then if S<8314882 then S=q S,m=1730925,Q elseif S<8337603 then m=b(41712)L=a(5115852,{N[2]})S=K[m]m=S(L)S=10687992 elseif S<8360742 then n,S=d,f S=d and 13466451 or 14099732 else r,X=b(41819),b(41891)V=K[X]X,S=b(41834),b(41964)m=V[X]P=K[r]X,r=0,b(41774)p=P[r]r,U=0,b(41964)T=H[U]U=b(41632)A=T[U]T=50 u=A-T P={p(r,u)}V=m(X,e(P))H[S]=V S=4343724<=2537219 m={S}S=K[b(41690)]end else if S<8289943 then L,S,m=nil,K[b(41715)],{}elseif 8302234>S then p,S=X,X and 9270560 or 15755973 elseif 8310632>S then k=b(41797)q=K[k]S=1173461 p=v[N[6]]P={q(p)}X,V,k=P[3],P[2],P[1]else A,U,D=S,S,b(41671)c=K[D]D=b(41871)C=c[D]D=b(41784)c=C(P,D)S,T=c and 15323556 or 9215071,c end end end else if S<7541336 then if 7480124>S then if 7440187>S then if 7304924>S then q=v[N[2]]Q=not q S=Q and 2486891 or 10723972 elseif S<7386185 then L=b(41651)m=K[L]L=b(41873)S=m[L]L=5 m=S(L)S=m and 16009358 or 5600769 else m,Q=b(41877),b(41736)S=K[m]L=v[N[1]]H=L(Q)Q,V=b(41747),b(41902)L=K[Q]k=K[V]V=b(41950)q=k[V]k={q()}Q={L(e(k))}m=S(H,e(Q))m,S={},K[b(41625)]end else if 7461312>S then V,q,k,S,X=nil,nil,nil,2799061,nil else S=C S=U and 6713366 or 6181652 end end else if 7495201>S then s=v[N[6]]z=s[r]S=z and 478157 or 1041304 elseif 7509467>S then m=b(41822)S=L==m S=S and 9027071 or 4181923 elseif 7526285>S then S=v[N[2]]H=b(41961)m=S(H)S=v[N[6]]H=15 m=S(H)S=v[N[7]]m=S(L)S=m and 5242723 or 14938774 else P=v[N[6]]q=nil r=P(p)u=b(41651)r=K[u]u=b(41873)P=r[u]S,u,p=16581772,2,nil r=P(u)end end else if S<7734901 then if S<7602420 then D,c=b(41649),b(41742)c,S=T[c],13669983 c=c(T,D)U=c elseif 7690751>S then r,q,A,u=S,X,b(41726),b(41742)u=p[u]u=u(p,A)S,P=u and 13137072 or 8632295,u elseif 7728408>S then H=b(41890)m=v[N[2]]L=b(41876)m[L]=H L,k=b(41817),b(41767)m=K[L]u,L,H=b(41710),b(41863),b(41973)L=m[L]L=L(m,H)H=v[N[3]]q=K[k]p,k=b(41647),b(41834)Q=q[k]k=.2 q=Q(k)k=b(41959)X=K[p]p,A=b(41834),b(41710)V=X[p]r=v[N[4]]P=r[u]r=b(41895)p=P[r]u=v[N[4]]m=b(41880)m=L[m]r=u[A]u=b(41695)P=r[u]r,u=0,54 X=V(p,P,r,u)Q={[k]=X}m=m(L,H,q,Q)L=b(41936)L=m[L]L=L(m)S=7763152 else S=p and 4906190 or 7912786 end else if 7744935>S then H=b(41797)S=K[H]k={S(L)}q,H,Q,S=k[3],k[1],k[2],2647564 elseif S<7755836 then S=m and 15354854 or 10880782 elseif S<7801356 then S,m=K[b(41843)],{}else Q=v[N[1]]L=M[1]H=L==Q m,S=H,H and 4227423 or 16285520 end end end end else if S<6630111 then if S<6236340 then if S<5992119 then if S>5849572 then if S<5918802 then T,A=b(41700),b(41698)A,S=P[A],8825842 A=A(P,T)r=A else S=6558013 end else if S<5713366 then S,L=12224525,nil elseif 5775308>S then S=k k={S(q)}Q,S,m=k[3],11196116,k[1]q,H=m,k[2]else m,S=H,H and 3097451 or 10219101 end end else if 6032347>S then P=v[N[3]]r=b(41935)p=P[r]V,S=p,1578277 elseif 6072444>S then S=p S,k=3148969,X elseif 6141993>S then u,A=b(41742),b(41726)u,V=X[u],q u=u(X,A)P,r=u,S S=u and 4439651 or 1665727 else C=3 U=k>=C S=U and 4932346 or 3277202 end end else if 6484569>S then if S<6339158 then Q=b(41778)S=v[N[2]]m=S(Q)m=b(41712)Q=w(9365001,{N[3]})S=K[m]m=S(Q)Q=20 S=v[N[4]]m=S(Q)S=12422698 elseif 6419392>S then A=b(41679)u=K[A]A=u(p)u=6 r=A>=u P,S=r,116671 elseif S<6461639 then S=12283244 else Q=v[N[1]]q,u,H,V=b(41657),b(41902),S,b(41842)L,H=Q and q,b(41682)m=L or H L,H=m,b(41877)m=K[H]r=b(41852)Q=v[N[2]]P=v[N[3]]p=P[r]P=b(41952)X=p..P p=b(41747)k=V..X V=b(41639)q=Q(k)S=K[b(41934)]k=K[V]V=b(41833)Q=k[V]X=K[p]r=K[u]u=b(41950)P=r[u]r={P()}P=b(41747)p=X(e(r))X=K[P]r=v[N[4]]P={X(r)}V,X={p,L,e(P)},b(41772)k={Q(V,X)}H=m(q,e(k))L,m=nil,{}end else if 6517439>S then S,n=f,d S=d and 14643844 or 12944931 elseif S<6547767 then q,L=b(41847),M[1]Q=L[q]X=b(41637)V=K[X]X=b(41847)k=V[X]V=b(41820)q=k[V]H=Q==q m,S=H,H and 5409834 or 8649189 elseif 6587330>S then L=b(41651)m=K[L]L=b(41873)S=m[L]L=5 m=S(L)S=m and 9372504 or 13423944 else V,m=b(41854),b(41854)S=K[m]k=K[V]Q,L,m,V=S,M,b(41910),b(41910)q=k[V]S,H=q and 13395601 or 13138225,q end end end else if 7005500>S then if 6885065>S then if 6768888>S then if 6671358>S then r=b(41723)P=p[r]r=b(41722)r=P[r]r=r(P)P=v[N[6]]r,S=nil,14776278 P[q]=r elseif S<6706253 then L=O()m=b(41712)v[L]=M[1]H=O()v[H]=M[2]S=K[m]Q=j(3549479,{N[1];H;L})m=S(Q)m={}L=I(L)H=I(H)S=K[b(41689)]else c,C=b(41732),b(41716)U=K[C]C=U(c)U=v[N[7]]C=U(u)c=b(41712)U=O()D=i(12928469,{N[1],N[6],U;V})v[U]=C C=K[c]c=C(D)C=v[V]S=C and 11020949 or 14242383 end else if 6844929>S then H,q=m,12039276>9625445 Q=H[L]S=Q==q m={S}S=K[b(41930)]else S=15017699 end end else if S<6917489 then H=b(41796)S=v[N[2]]m=S(H)S=9466573 elseif S<6959014 then H=M[2]S,L,m=H and 6824411 or 4144518,M[1],H elseif S<6993371 then Q=b(41783)m=L[Q]S,m=K[b(41629)],{m}else X,q=b(41637),b(41847)Q=L[q]V=K[X]S,X=12406193,b(41847)k=V[X]V=b(41908)q=k[V]H=Q==q m=H end end else if S<7171110 then if S<7022028 then L=v[N[1]]S,m=L and 3425667 or 293933,L elseif S<7067585 then m,Q=b(41664),b(41662)S=v[N[2]]H=v[N[3]]L=H[Q]S[m]=L L=b(41685)S=v[N[2]]q,m,Q=40,b(41876),b(41694)S[m]=L S=v[N[2]]m=b(41929)H=K[Q]Q=b(41839)L=H[Q]Q,k=15,25 H=L(Q,q,k)S[m]=H S=15091457 elseif 7129750>S then q=b(41745)S=K[q]p=b(41842)k=v[N[1]]A=b(41852)u=v[N[2]]r=u[A]u=b(41952)P=r..u X=p..P V={k(X)}q=S(e(V))S=q and 13143497 or 2799061 else m=b(41716)S=K[m]bU=b(41816)m=S(bU)bU,m=b(41991),b(41918)S=v[V]m=S[m]m=m(S,bU)bU=m S=bU and 10073132 or 1734600 end else if S<7196769 then L=b(41651)m=K[L]L=b(41873)S=m[L]L=2 m=S(L)S=v[N[1]]m=S()S,m=K[b(41718)],{}elseif 7222765>S then SU,ZU=b(41738),b(41647)m=K[SU]SU=b(41834)S=m[SU]SU=b(41985)m=S(SU)SU=m m,S,vU=b(41728),b(41852),320 SU[S]=m NU,m,S=b(41637),9448275>=15916683,b(41831)SU[S]=m MU=K[NU]NU=b(41786)eU=MU[NU]S,MU=b(41786),b(41815)m=eU[MU]wU,eU=6,b(41738)SU[S]=m S,GU=b(41783),-84 m=v[V]SU[S]=m m=K[eU]eU=b(41834)S=m[eU]eU=b(41658)m=S(eU)eU=O()v[eU]=m S=v[eU]m,hU,LU,MU=b(41852),250,14,b(41659)S[m]=MU S=v[eU]NU=K[ZU]mU,ZU,m=0,b(41834),b(41959)MU=NU[ZU]ZU=0 NU=MU(ZU,hU,mU,vU)ZU=b(41647)S[m]=NU S=v[eU]qU=0 NU=K[ZU]hU,ZU,mU,m=-125,b(41834),0,b(41646)MU=NU[ZU]vU,ZU=20,.5 NU=MU(ZU,hU,mU,vU)ZU=b(41860)S[m]=NU m=b(41664)S=v[eU]NU=v[T]MU=NU[ZU]S[m]=MU m,MU,hU=b(41693),0,14 S=v[eU]S[m]=MU S=v[eU]MU,m=4276620~=12037862,b(41967)S[m]=MU ZU,MU,kU,m=b(41713),SU,22,b(41783)S=v[eU]S[m]=MU MU=b(41738)m=K[MU]MU=b(41834)S=m[MU]MU=b(41914)NU=v[eU]m=S(MU,NU)vU=54 NU=K[ZU]S,ZU=b(41958),b(41834)MU=NU[ZU]ZU=0 NU=MU(ZU,hU)MU=b(41738)m[S]=NU m=K[MU]MU=b(41834)S=m[MU]MU,mU,ZU=b(41658),0,b(41647)m=S(MU)S=b(41959)NU=K[ZU]hU,ZU,MU=0,b(41834),m m=NU[ZU]ZU=1 NU=m(ZU,hU,mU,vU)ZU=b(41642)MU[S]=NU S=b(41664)NU=v[T]m=NU[ZU]MU[S]=m hU,m,S=b(41713),0,b(41693)MU[S]=m m=v[eU]S,NU=b(41783),b(41738)MU[S]=m m=K[NU]NU=b(41834)S=m[NU]mU,NU,vU=14,b(41914),0 m=S(NU,MU)ZU=K[hU]hU=b(41834)NU=ZU[hU]hU=0 ZU=NU(hU,mU)S,NU,hU=b(41958),b(41738),b(41642)m[S]=ZU m=K[NU]NU=b(41834)S=m[NU]NU=b(41658)m=S(NU)NU=m ZU=v[T]m=ZU[hU]S=b(41664)NU[S]=m S,m=b(41693),0 NU[S]=m mU,hU,S=0,b(41647),b(41959)ZU=K[hU]hU=b(41834)m=ZU[hU]hU=1 ZU=m(hU,mU,vU,LU)hU=b(41647)NU[S]=ZU ZU=K[hU]LU,mU,hU,vU,S=-14,0,b(41834),1,b(41646)m=ZU[hU]hU,IU=0,26 ZU=m(hU,mU,vU,LU)NU[S]=ZU ZU=b(41896)m=MU[ZU]S=b(41896)NU[S]=m ZU,m,S=b(41738),MU,b(41783)NU[S]=m m=K[ZU]ZU=b(41834)S=m[ZU]ZU=b(41726)m=S(ZU)ZU=m m,vU,S,OU,mU=1,26,b(41882),20,b(41647)ZU[S]=m iU,S=34,b(41959)hU=K[mU]LU,mU,YU=0,b(41834),6 m=hU[mU]mU=0 hU=m(mU,vU,LU,OU)ZU[S]=hU jU,OU,vU,S,gU,LU,mU=18,8,12,b(41646),0,0,b(41647)hU=K[mU]mU=b(41834)m=hU[mU]mU=0 hU=m(mU,vU,LU,OU)vU=b(41637)ZU[S]=hU m,QU,S=b(41899),14,b(41876)ZU[S]=m m,S=18,b(41841)ZU[S]=m S=b(41681)mU=K[vU]vU=b(41681)hU=mU[vU]vU,mU=b(41647),b(41942)m=hU[mU]ZU[S]=m S,m=b(41783),MU ZU[S]=m hU=b(41738)m=K[hU]hU=b(41834)S=m[hU]OU,hU,LU=0,b(41726),-80 m=S(hU)hU,aU,S=m,b(41713),b(41882)m=1 hU[S]=m mU=K[vU]S,vU=b(41959),b(41834)m=mU[vU]vU=1 mU=m(vU,LU,OU,QU)LU,vU=34,b(41647)hU[S]=mU S=b(41646)mU=K[vU]vU=b(41834)m=mU[vU]vU,QU,OU=0,6,0 mU=m(vU,LU,OU,QU)LU=255 hU[S]=mU m,S,OU,vU=b(41957),b(41876),255,b(41694)hU[S]=m mU=K[vU]vU=b(41839)m=mU[vU]S,vU=b(41929),255 mU=m(vU,LU,OU)hU[S]=mU S,m=b(41965),.35 hU[S]=m LU,S=b(41637),b(41681)vU=K[LU]LU,OU=b(41681),b(41647)mU=vU[LU]vU=b(41942)m=mU[vU]hU[S]=m LU,S,m,QU=b(41637),b(41841),11,-80 hU[S]=m S=b(41858)vU=K[LU]LU,VU=b(41858),0 mU=vU[LU]vU=b(41879)m=mU[vU]mU=b(41738)hU[S]=m m,S=MU,b(41783)hU[S]=m m=K[mU]vU,mU=b(41636),b(41834)S=m[mU]mU=b(41726)m=S(mU)mU=O()v[mU]=m S=v[mU]m=b(41852)S[m]=vU vU,m=1,b(41882)S=v[mU]S[m]=vU m=b(41959)S=v[mU]LU=K[OU]OU=b(41834)vU=LU[OU]OU=1 LU=vU(OU,QU,VU,kU)S[m]=LU OU,QU,m=b(41647),34,b(41646)S=v[mU]LU=K[OU]OU,VU=b(41834),0 vU=LU[OU]kU,OU=20,0 LU=vU(OU,QU,VU,kU)kU=0 S[m]=LU m=b(41876)S=v[mU]vU=b(41853)S[m]=vU S=v[mU]OU=b(41694)LU=K[OU]OU,VU=b(41839),255 vU=LU[OU]m,QU,OU=b(41929),255,255 LU=vU(OU,QU,VU)S[m]=LU S=v[mU]QU=b(41637)OU=K[QU]m,QU=b(41681),b(41681)LU=OU[QU]OU=b(41942)vU=LU[OU]S[m]=vU QU,m=b(41637),b(41841)S=v[mU]vU=14 S[m]=vU S=v[mU]m=b(41858)OU=K[QU]QU=b(41858)LU=OU[QU]OU=b(41879)vU=LU[OU]S[m]=vU m,vU=b(41783),MU S=v[mU]S[m]=vU vU=b(41738)m=K[vU]HU,vU,VU,QU=6,b(41834),26,b(41647)S=m[vU]vU=b(41649)m=S(vU)vU=O()v[vU]=m S=v[vU]OU=K[QU]QU=b(41834)LU=OU[QU]m,QU=b(41959),0 OU=LU(QU,VU,kU,IU)kU,QU,IU=0,b(41647),14 S[m]=OU S=v[vU]m=b(41646)OU=K[QU]VU,QU=-34,b(41834)LU=OU[QU]QU=1 OU=LU(QU,VU,kU,IU)kU=255 S[m]=OU VU,m,QU=255,b(41664),b(41694)S=v[vU]OU=K[QU]QU=b(41839)LU=OU[QU]QU=255 OU=LU(QU,VU,kU)S[m]=OU LU,yU=.85,34 S=v[vU]m=b(41882)S[m]=LU S=v[vU]QU,m,LU=b(41694),b(41876),b(41806)S[m]=LU kU=255 S=v[vU]OU=K[QU]QU,m=b(41839),b(41929)LU=OU[QU]QU,VU=255,255 OU=LU(QU,VU,kU)S[m]=OU m=b(41681)S=v[vU]VU=b(41637)QU=K[VU]kU,VU=1,b(41681)OU=QU[VU]IU,QU=-54,b(41942)LU=OU[QU]S[m]=LU LU,m=16,b(41841)S=v[vU]S[m]=LU m=b(41976)S=v[vU]LU=15822282<1452844 S[m]=LU S=v[vU]QU,m,VU,LU=b(41713),b(41783),7,MU S[m]=LU LU=b(41738)m=K[LU]LU=b(41834)S=m[LU]OU=v[vU]LU=b(41914)m=S(LU,OU)OU=K[QU]S,QU=b(41958),b(41834)LU=OU[QU]QU=0 OU=LU(QU,VU)m[S]=OU LU=b(41738)m=K[LU]XU,LU=6,b(41834)S=m[LU]LU=b(41658)m=S(LU)QU,S,LU=b(41647),b(41882),m m=1 LU[S]=m OU=K[QU]VU,QU=0,b(41834)m=OU[QU]S,QU=b(41959),1 OU=m(QU,VU,kU,IU)QU=b(41647)LU[S]=OU S,kU=b(41646),0 OU=K[QU]QU=b(41834)m=OU[QU]QU,IU,VU=0,54,0 OU=m(QU,VU,kU,IU)LU[S]=OU QU,S=b(41738),b(41783)m=v[eU]LU[S]=m m=K[QU]QU=b(41834)S=a(4902427,{})OU=S S=m[QU]IU,QU=-16,b(41649)m=S(QU)kU,S,QU=b(41647),b(41959),m VU=K[kU]kU=b(41834)m=VU[kU]kU=.5 VU=m(kU,IU,qU,iU)QU[S]=VU qU,kU,iU,S=0,b(41647),10,b(41646)VU=K[kU]kU,IU=b(41834),12 m=VU[kU]kU=0 VU=m(kU,IU,qU,iU)kU,IU,m=b(41694),255,b(41763)QU[S]=VU S=b(41876)QU[S]=m VU=K[kU]pU,kU,qU,S=b(41736),b(41839),255,b(41929)m=VU[kU]kU=255 VU=m(kU,IU,qU)QU[S]=VU IU=b(41637)kU=K[IU]S,IU=b(41681),b(41681)VU=kU[IU]kU=b(41942)m=VU[kU]QU[S]=m kU,m,S,IU=b(41856),13,b(41841),b(41931)QU[S]=m S,iU,m=b(41783),0,LU QU[S]=m VU=v[T]m=VU[kU]kU=v[T]VU=kU[IU]S=OU(QU,m,VU)VU=b(41738)m=K[VU]VU,IU=b(41834),b(41647)S=m[VU]VU,qU=b(41649),-16 m=S(VU)kU=K[IU]IU,S,VU=b(41834),b(41959),m m=kU[IU]IU=.5 kU=m(IU,qU,iU,yU)VU[S]=kU IU,qU,iU,S=b(41647),4,0,b(41646)kU=K[IU]IU,yU=b(41834),10 m=kU[IU]IU=.5 kU=m(IU,qU,iU,yU)m=b(41771)VU[S]=kU S=b(41876)VU[S]=m S,IU,iU=b(41929),b(41694),255 kU=K[IU]qU,IU=255,b(41839)m=kU[IU]IU=255 kU=m(IU,qU,iU)VU[S]=kU qU,S=b(41637),b(41681)IU=K[qU]qU=b(41681)kU=IU[qU]IU=b(41942)m=kU[IU]iU=b(41647)VU[S]=m S,m=b(41841),13 VU[S]=m qU,m,S=b(41943),LU,b(41783)VU[S]=m IU=b(41926)kU=v[T]m=kU[IU]IU=v[T]kU=IU[qU]S=OU(VU,m,kU)kU=b(41738)m=K[kU]kU=b(41834)S=m[kU]kU=b(41726)m=S(kU)kU=O()v[kU]=m S=v[kU]qU=K[iU]iU,yU=b(41834),-24 IU=qU[iU]m,iU=b(41959),1 qU=IU(iU,yU,gU,jU)S[m]=qU iU,jU,m=b(41647),52,b(41646)S=v[kU]qU=K[iU]iU,gU=b(41834),0 IU=qU[iU]iU,yU=0,12 qU=IU(iU,yU,gU,jU)S[m]=qU S=v[kU]m,IU=b(41882),1 S[m]=IU S=v[kU]gU,yU,m,iU,IU=-24,b(41637),b(41876),b(41720),b(41644)S[m]=IU m=b(41929)S=v[kU]qU=v[T]IU=qU[iU]S[m]=IU S=v[kU]m=b(41681)iU=K[yU]yU=b(41681)qU=iU[yU]iU=b(41942)IU=qU[iU]S[m]=IU IU,m,yU=12,b(41841),b(41637)S=v[kU]S[m]=IU m=b(41858)S=v[kU]iU=K[yU]yU=b(41858)qU=iU[yU]iU=b(41879)IU=qU[iU]S[m]=IU IU,m=LU,b(41783)S=v[kU]S[m]=IU jU,IU,yU=1,b(41738),b(41647)m=K[IU]IU=b(41834)S=m[IU]IU=b(41773)m=S(IU)IU=O()v[IU]=m m=b(41959)S=v[IU]iU=K[yU]yU=b(41834)qU=iU[yU]yU=1 iU=qU(yU,gU,jU,GU)GU=76 S[m]=iU m,yU=b(41646),b(41647)S=v[IU]iU=K[yU]yU=b(41834)qU=iU[yU]jU,yU,gU=0,0,12 iU=qU(yU,gU,jU,GU)S[m]=iU m=b(41664)S=v[IU]iU=v[T]yU=b(41723)qU=iU[yU]S[m]=qU gU,yU,qU=0,b(41904),0 S=v[IU]m=b(41693)S[m]=qU S=v[IU]GU,m,qU=0,b(41641),3 S[m]=qU S=v[IU]iU=v[T]m,jU=b(41883),0 qU=iU[yU]S[m]=qU m,yU=b(41760),b(41647)S=v[IU]iU=K[yU]yU=b(41834)qU=iU[yU]yU=0 iU=qU(yU,gU,jU,GU)gU=b(41637)S[m]=iU S=v[IU]m=b(41989)yU=K[gU]gU=b(41704)iU=yU[gU]gU,yU=10,b(41632)qU=iU[yU]S[m]=qU S=v[IU]m,qU=b(41783),LU S[m]=qU qU=b(41738)m=K[qU]qU=b(41834)S=m[qU]yU=b(41713)iU=v[IU]qU=b(41914)m=S(qU,iU)S=b(41958)iU=K[yU]yU=b(41834)qU=iU[yU]yU=0 iU=qU(yU,gU)m[S]=iU gU,qU=b(41637),b(41738)m=K[qU]qU=b(41834)S=m[qU]qU=b(41977)iU=v[IU]m=S(qU,iU)yU=K[gU]S,gU,qU=b(41762),b(41762),m iU=yU[gU]yU=b(41852)m=iU[yU]yU=b(41713)qU[S]=m S=b(41868)iU=K[yU]yU=b(41834)m=iU[yU]gU,yU=4,0 iU=m(yU,gU)qU[S]=iU iU=b(41738)m=K[iU]iU=b(41834)S=m[iU]yU=v[IU]iU,gU=b(41826),b(41776)m=S(iU,yU)iU,S,yU=m,b(41696),b(41697)GU=K[aU]m,aU=b(41701),b(41834)jU=GU[aU]aU=0 GU=jU(aU,wU)wU=b(41713)aU=K[wU]wU=b(41834)jU=aU[wU]wU=0 aU=jU(wU,YU)YU=b(41713)wU=K[YU]YU=b(41834)jU=wU[YU]YU=0 wU=jU(YU,HU)HU=b(41713)YU=K[HU]HU=b(41834)jU=YU[HU]HU=0 YU=jU(HU,XU)iU[S]=GU iU[m]=aU iU[yU]=wU wU,yU=b(41959),nil iU[gU]=YU YU=b(41635)GU=O()m=nil jU=O()gU,S=nil,nil aU=O()v[jU]=S v[GU]=m v[aU]=yU yU=O()m=b(41753)v[yU]=gU S=MU[m]gU=w(16648897,{jU,aU;eU;yU})m=b(41900)m=S[m]m=m(S,gU)m=b(41676)gU=w(15884859,{GU})S=MU[m]m=b(41900)m=S[m]m=m(S,gU)m=b(41676)S=P[m]m=b(41900)m=S[m]gU=w(7839560,{GU;jU;aU,eU,yU})m=m(S,gU)m=b(41769)S=MU[m]m=b(41900)gU=i(5070490,{jU})m=S[m]m=m(S,gU)gU=O()S=6943991<=1658556 v[gU]=S m=v[eU]S=m[wU]wU=O()v[wU]=S m=v[vU]S=m[YU]YU=j(14009817,{gU;vU;eU,wU})m=b(41900)m=S[m]m=m(S,YU)YU=i(8579639,{s,mU})m=b(41635)S=QU[m]m=b(41900)m=S[m]m=m(S,YU)YU=y(2514604,{f,mU;x})m=b(41635)S=VU[m]m=b(41900)m=S[m]m=m(S,YU)YU=b(41651)m=K[YU]YU=b(41755)S=m[YU]HU=b(41745)YU=y(12743809,{u})m=S(YU)YU=O()S=i(16524340,{J,H,d;f;x})v[YU]=S m=K[HU]XU=v[u]PU={XU(pU)}HU=m(e(PU))S=not HU S=S and 3415473 or 3934499 elseif S<7244456 then k=b(41876)q=v[N[7]]p,L,m=b(41671),nil,{}X=K[p]p=b(41799)V=X[p]p,S,Q=b(41987),K[b(41640)],nil X=V(p,H)H=nil q[k]=X else V,r,P=q,b(41726),b(41742)P=X[P]P=P(X,r)p,S=P,P and 11322097 or 7728452 end end end end end end end else if S>12763300 then if 14780446>S then if S<13664482 then if 13321114>S then if S>13097032 then if S<13187501 then if S<13137648 then S=r S=P and 692497 or 12283244 elseif 13140861>S then z,P,C,r,T,k,c,D,u=12034246<=2375697,b(41901),b(41869),2,b(41920),b(41905),{},b(41801),b(41893)x=i(10183248,{})s,U,V,S,X=b(41972),b(41775),b(41939),13395601,b(41707)A={T;U}T,U,p=b(41803),{[C]=c;[D]=z;[s]=x},1 q={[k]=V,[X]=p;[P]=r,[u]=A;[T]=U}H=q elseif S<13146801 then q=b(41721)S=K[q]k=v[N[1]]p,A=b(41842),b(41852)u=v[N[2]]r=u[A]u=b(41952)P=r..u X=p..P V={k(X)}q=S(e(V))p=b(41698)p,X=q[p],b(41906)p={p(q,X)}k,S=p[2],p[1]X,V=S,p[3]p,S=X,X and 5316435 or 14813078 else m=v[N[1]]S=m[L]m={S}S=K[b(41810)]end else if 13264570>S then q,X,L=b(41847),b(41637),M[1]Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41903)q=k[V]H=Q==q S,m=H and 12194455 or 12105433,H elseif S<13309798 then S=L v[N[1]]=S S=4632523 elseif S<13316163 then S=H and 14460570 or 3414972 else q=b(41847)Q=L[q]X=b(41637)V=K[X]X=b(41847)k=V[X]S,V=11584697,b(41908)q=k[V]H=Q==q m=H end end else if S>12936700 then if 12974119>S then n,S=U,14643844 elseif S<13008407 then P=v[N[4]]A=b(41651)r=P(X)P=14449630>3477190 v[N[3]]=P u=K[A]A=b(41873)r=u[A]A=1 u=r(A)u=b(41712)r=K[u]A=g(16679841,{N[5]})u=r(A)S=16101370 elseif S<13035249 then X[m]=p p,r,m,S,C=.82,b(41647),b(41882),P,40 X[m]=p m=b(41959)P=K[r]A,r=S,b(41834)p=P[r]r,U,A=0,S,0 U,T=52,H and C u=T or U T,U=14,S P=p(r,u,A,T)X[m]=P m,U,r=b(41646),-58,b(41647)P=K[r]r,A=b(41834),S A=0 p=P[r]r,C=1,-46 T=H and C u=T or U T=4 P=p(r,u,A,T)X[m]=P P,u=S,S u,m,A=b(41675),b(41876),b(41657)r=H and A p=r or u u=S X[m]=p P=S S,r,m=H and 2560368 or 11489013,H,b(41929)else L=b(41854)m=K[L]L=b(41867)S=m[L]m,H=b(41876),b(41747)L=K[H]Q=v[N[1]]H=L(Q)S[m]=H S,m=K[b(41848)],{}end else if 12903322>S then if S<12818148 then S=6451497 elseif 12885641>S then S=m and 9005045 or 5596363 else X=b(41817)V=K[X]X=b(41941)k=V[X]q=k~=L S,H=16601749,q end else if S<12916092 then H=b(41909)S=v[N[2]]m=S(H)S=4303163 else S,H=6682192>=158883,b(41651)v[N[1]]=S L=K[H]H=b(41873)m=L[H]S,H=K[b(41966)],.5 L=m(H)m=v[N[2]]H=v[N[3]]L=m(H)m=15691660>7162254 v[N[4]]=m m={}end end end end else if S>13492673 then if S>13582108 then if 13594023>S then S,m=K[b(41764)],{m}elseif S<13614540 then D=v[N[2]]U,z=S,b(41852)c=D[z]C=r~=c T,S=C,C and 8642281 or 2557072 elseif 13642623>S then A,S=U,C S=317641 else p=b(41712)S=K[p]u=b(41721)r=K[u]u={S(r,k)}P,p=u[2],u[1]r,S=p,p and 9974009 or 11026002 end else if S<13523366 then S,m,L=K[b(41645)],{},nil elseif S<13547088 then m,S={},K[b(41881)]elseif S<13572663 then S=c S,T=C and 10913423 or 11534791,C else m=b(41679)S=K[m]Q=b(41721)H=K[Q]Q={H(L)}m=S(e(Q))H=m m,S=H,H and 3171961 or 9917190 end end else if S>13428796 then if S<13434208 then S=2176632 n=Q[r]x=not n z=x elseif 13436860>S then m=v[N[5]]H=m()S=not H S=S and 10054429 or 7521600 elseif 13452701>S then S,r=4883126,b(41777)P=X[r]p=P else z[x]=n S,x,F=J,b(41782),.5 z=s[x]f=S f,x,J,d=.82,b(41882),S,D and F n=d or f z[x]=n z=2360287<=15189190 L[r]=z s,x=nil,1 z=H+x H,S=z,3005442 end else if 13406003>S then if 13360428>S then k=b(41887)S=v[N[3]]q=b(41876)S[q]=k k=b(41825)S=v[N[5]]q=S(k)S=14840177 elseif 13395889>S then S,V,p=Q,b(41673),b(41870)Q,X=b(41945),b(41761)S[m]=H q,W,m=b(41862),78,b(41817)S=K[m]H,m=b(41717),b(41863)m=S[m]m=m(S,H)H=O()v[H]=m m=v[H]S=m[Q]o,k,m,D=245,b(41703),b(41817),42 Q=O()J=58 v[Q]=S S=K[m]KU,m=178,b(41863)m=S[m]m=m(S,q)q=O()v[q]=m m=b(41817)S=K[m]m,OU=b(41863),200 m=S[m]m=m(S,k)k=O()v[k]=m m,R=b(41817),240 S=K[m]m=b(41863)m=S[m]m=m(S,V)V=O()d=209 v[V]=m m=b(41817)S=K[m]m=b(41863)m,vU=S[m],214 m=m(S,X)X=O()v[X]=m c,P,m=32,b(41667),b(41817)S=K[m]f,m,bU=118,b(41863),82 m=S[m]m=m(S,p)n=235 p=O()B=162 v[p]=m m=b(41817)S=K[m]m=b(41863)m=S[m]r=O()m=m(S,P)l,S,P=40,b(41851),m m=b(41712)v[r]=S u=i(10696352,{r})C=b(41854)S=K[m]m=S(u)S=y(11127102,{r})u=O()v[u]=S T=b(41852)A=v[Q]F=255 m=A[T]U=K[C]C=b(41910)T=U[C]U=b(41905)A=T[U]S=m==A A=O()C,m,x=b(41694),b(41860),88 v[A]=S U=K[C]C,E,eU,s,z,hU=b(41839),60,60,28,21,132 T=U[C]C=30 U=T(C,c,D)D,T=b(41694),b(41968)c=K[D]D=b(41839)C=c[D]D,ZU,t=20,235,52 c=C(D,z,s)QU,C,s=87,b(41642),b(41694)z=K[s]s=b(41839)D=z[s]s=114 z=D(s,x,n)n,mU,D=b(41694),210,b(41656)x=K[n]n=b(41839)s=x[n]n=82 x=s(n,J,d)s,d=b(41904),b(41694)J=K[d]d=b(41839)n=J[d]MU,d=74,140 J=n(d,f,F)n,F=b(41723),b(41694)f=K[F]F=b(41839)d=f[F]F=38 f=d(F,l,t)SU,d,t=96,b(41638),b(41694)l=K[t]t=b(41839)F=l[t]t=58 l=F(t,E,W)W,F=b(41694),b(41691)E=K[W]NU,W=156,b(41839)t=E[W]W=240 E=t(W,R,o)t,o=b(41720),b(41694)R=K[o]o=b(41839)W=R[o]o=160 R=W(o,B,KU)W,KU=b(41856),b(41694)B=K[KU]KU=b(41839)o=B[KU]KU=235 B=o(KU,bU,SU)LU,o,SU=140,b(41931),b(41694)bU=K[SU]SU=b(41839)KU=bU[SU]SU=210 bU=KU(SU,eU,MU)MU=b(41694)eU=K[MU]MU,KU=b(41839),b(41926)SU=eU[MU]MU=72 eU=SU(MU,NU,ZU)ZU,SU=b(41694),b(41943)NU=K[ZU]ZU=b(41839)MU=NU[ZU]ZU=52 NU=MU(ZU,hU,mU)MU,mU=b(41662),b(41694)hU=K[mU]mU=b(41839)ZU=hU[mU]mU=87 hU=ZU(mU,vU,LU)LU=b(41694)vU=K[LU]ZU,LU=b(41935),b(41839)mU=vU[LU]LU=255 vU=mU(LU,OU,QU)S={[m]=U;[T]=c;[C]=z,[D]=x,[s]=J,[n]=f,[d]=l;[F]=E,[t]=R,[W]=B,[o]=bU,[KU]=eU;[SU]=NU,[MU]=hU;[ZU]=vU}T=O()d=O()KU=O()U=O()D=O()C=O()v[T]=S s=O()J=O()S=g(8918876,{X;p})o=O()v[U]=S z=O()W=O()S=i(4634449,{})c=O()t=O()v[C]=S f=O()B=O()S=g(8727677,{V,Q})v[c]=S S=G(11676671,{})n=O()v[D]=S x=O()S=y(15372509,{})R=O()v[z]=S S=w(11611116,{u})v[s]=S S=i(11058636,{A;u;Q})v[x]=S S=90 v[n]=S S=j(551847,{Q,r,n})l=O()v[J]=S F=O()S=w(6930296,{J})v[d]=S S=a(14270473,{u})v[f]=S E=O()S=g(4070586,{u})v[F]=S S=i(10504637,{u})v[l]=S S=w(12624498,{u;Q})v[t]=S S=G(271413,{u;Q})v[E]=S S=y(728042,{u,Q})v[W]=S S=w(15878549,{W})v[R]=S S=Y(6699141,{W})v[o]=S S=w(3719941,{k,q;Q})v[B]=S S=g(1689225,{V;U;X})v[KU]=S m=v[A]S=not m S=S and 7156397 or 2354480 else c,A=b(41783),S C=p[c]c=b(41852)U=C[c]C=b(41752)T=U~=C u,S=T,T and 14911578 or 12709926 end else if S<13419886 then X,k,V,S,q=nil,nil,nil,3911086,nil else S,m=K[b(41686)],{}end end end end end else if S>14248926 then if 14647453>S then if 14434975>S then if S<14256843 then m,S=b(41797),b(41874)S=L[S]S=S(L)H=S S=8837419<=259106 Q=S S=K[m]V={S(H)}q,k,m=V[2],V[3],V[1]V,S=m,15768546 elseif 14264345>S then E=b(41671)t=K[E]F,E=S,b(41871)l=t[E]E=b(41741)t=l(T,E)f,S=t,t and 10190926 or 10317457 elseif 14339926>S then m=b(41745)S=K[m]Q=b(41947)L=v[N[1]]H={L(Q)}m=S(e(H))S=m and 15920082 or 15983021 else S,P=7912786,nil end else if S<14528816 then m,S=b(41773),b(41742)S=H[S]S=S(H,m)S=S and 4987672 or 9194620 elseif 14601149>S then A,P,X=b(41821),b(41679),S p=K[P]u=Q[A]A=b(41785)r=u[A]P=p(r)V,S=P,P and 9189264 or 2603855 elseif S<14624540 then P=b(41712)p=O()S=8905481>12705283 r=j(5105225,{V;p})v[p]=S S=K[P]P=S(r)S=v[p]S=S and 3752332 or 10621189 else z[x]=n S=J f,d,x=S,D,b(41663)z=s[x]x,J=b(41929),S S=D and 5156753 or 8357614 end end else if S>14719597 then if S<14735624 then m,S={},K[b(41687)]elseif 14760644>S then X=11845835<14578126 S=v[L]S[V]=X V,S,k=nil,11196116,Q k=nil elseif 14775117>S then S=7347441 else p,S,q=nil,1173461,nil end else if 14656998>S then S=13979423 elseif 14665706>S then S,X,u=b(41964),b(41891),b(41964)V=K[X]X=b(41834)m=V[X]X=0 r=H[u]u=b(41632)P=r[u]r=50 p=P+r V=m(X,p)H[S]=V S=14505228<8261082 m={S}S=K[b(41921)]elseif 14691878>S then S=u and 10700021 or 9884409 else L=M[1]m=v[N[1]]H=M[2]S=m[L]S=S and 13150106 or 9759008 end end end else if 13994620>S then if S<13914451 then if 13813797>S then if S<13706114 then S=C S=U and 10828906 or 15017699 elseif S<13747074 then S=m and 8769936 or 7936386 else H,X=b(41797),b(41714)S=K[H]V=v[N[2]]k=V[X]X=b(41844)X=k[X]V={X(k)}k={S(e(V))}q,Q,H,S=k[3],k[2],k[1],9618691 end else if S<13888827 then L,H,S,Q,m=nil,nil,K[b(41670)],nil,{}else X,p=b(41918),b(41650)X,V=Q[X],S X=X(Q,p)S,k=X and 2921513 or 3148969,X end end else if 13934718>S then P=v[N[5]]r=P(p)S=r and 7530970 or 12767943 elseif 13946055>S then k,q,S=nil,nil,12479082~=15155973 v[N[2]]=S S=14723916 elseif S<13964518 then S=v[N[1]]L,m=b(41748),b(41918)m=S[m]m=m(S,L)L=m S,m=L and 11986174 or 10656954,L else q,k,S=nil,nil,16646832 end end else if S<14162503 then if S<14028453 then m=v[N[1]]S=not m v[N[1]]=S m=v[N[1]]S=m and 7728365 or 15835387 elseif 14073411>S then S=v[N[2]]q=b(41787)m=S(q)S=v[N[3]]m=S()L=m S=not L S=S and 12688007 or 14255469 elseif S<14122964 then f=v[N[4]]S,F=13466451,b(41720)d=f[F]n=d else S=v[N[1]]m=S()S=m and 12721988 or 8317593 end else if 14191296>S then p,m=b(41852),b(41877)S=K[m]q=b(41794)L=v[N[1]]X=v[N[2]]V=X[p]X=b(41952)k=V..X Q=q..k X=b(41902)H=L(Q)Q=b(41747)L=K[Q]V=K[X]X=b(41950)k=V[X]V=k()k=v[N[3]]q=V+k Q={L(q)}m=S(H,e(Q))m,S={},K[b(41746)]elseif 14211432>S then p,q=b(41671),b(41819)m=K[q]k,q=60,b(41923)S=m[q]q=Q/k m=S(q)q=60 S=Q%q k=S S=v[N[3]]q=m X=K[p]p,m=b(41799),b(41876)V=X[p]p=b(41954)X=V(p,q,k)S[m]=X X=b(41970)V=K[X]X=V()V=v[N[4]]m=X-V V=5 S=m>V S=S and 16150368 or 5573090 elseif S<14230732 then r=b(41742)r,X,u=p[r],k,b(41726)r=r(p,u)S,P=r and 15792577 or 11954141,r else S=6181652 U=I(U)end end end end end else if S<15632161 then if 15193639>S then if 15014228>S then if S<14927247 then if 14875877>S then if S<14798846 then H,S=nil,13518896 elseif S<14826627 then S=p and 11002713 or 7455445 else S=12016627 end else if 14917547>S then T=v[N[4]]S=12709926 U=T(p)u=U else p,X,S=nil,nil,14870391>2964540 v[N[2]]=S V,S=nil,15525964 end end else if S<14934876 then k=nil V=I(V)S=2647564 elseif 14954691>S then S=9466573 elseif 14990683>S then S=16049271<=4268669 v[N[1]]=S S=5333880 else l=b(41671)F=K[l]l=b(41871)f=F[l]d,l=S,b(41739)F=f(T,l)S,J=F and 9508114 or 14258217,F end end else if 15101950>S then if 15040839>S then p,T,S=nil,nil,3456896 elseif 15074071>S then S=v[N[1]]m=S()S=m and 7032068 or 666340 elseif S<15087810 then k=b(41902)q=K[k]S,k=12868354,b(41950)Q=q[k]q=Q()H=q<L m=H else m,S={},K[b(41866)]end else if S<15118960 then P,S=u,A S=3096695 elseif 15153862>S then q,X=k(Q,q)S=q and 7251098 or 14784615 elseif 15183623>S then k,S,q,Q=nil,9194620,nil,nil else S=A S=u and 10642527 or 3402206 end end end else if S>15417207 then if S>15535663 then if 15554148>S then V,q,S=b(41812),H,b(41698)S=k[S]S=S(k,V)V=S S,X=V and 15660190 or 8294771,V elseif S<15590211 then S=v[N[6]]q=S()S=q and 1597098 or 13325255 elseif S<15618658 then P,S=nil,58016 else r,X=b(41680),b(41711)q=v[N[5]]S=5312555 p=H..r V=X..p k=q(V)end else if 15484163>S then S=C S=U and 3937801 or 6865448 elseif S<15525261 then X,p=b(41671),b(41876)V=K[X]X=b(41871)S=V[X]X=k[p]p=b(41885)p=X[p]p=p(X)X=b(41937)V=S(p,X)S=V and 13942497 or 14651062 elseif 15525621>S then Q,S=nil,10723972 else S=7262407 end end else if S<15292416 then if 15247446>S then if S<15207962 then S=10687992 elseif 15224590>S then q,V=S,b(41783)k=H[V]Q,S=k,k and 2115193 or 8312172 else S=v[N[3]]u=b(41852)r=p[u]P=S(r,L)S,X=P and 11241139 or 2763073,k end else if 15260318>S then S=m and 14970609 or 5333880 else V=35 m=q+V S=Q<m S=S and 8363870 or 2034384 end end else if S<15339205 then u,S=T,U S=T and 1063554 or 9526387 elseif 15363681>S then S=10305015>1183750 v[N[2]]=S S=10880782 elseif S<15381919 then L,m=M[1],b(41783)S=L[m]H=S S=13315353 else S=15525279 end end end end else if S<16177592 then if 15885809>S then if S>15780561 then if S<15813982 then S=P and 1079472 or 58016 elseif S<15856968 then L=b(41876)m=v[N[2]]H=b(41806)m[L]=H L=b(41817)m=K[L]H,L,k=b(41973),b(41863),b(41767)L=m[L]L=L(m,H)H=v[N[3]]q=K[k]m,k=b(41880),b(41834)Q=q[k]k=.2 q=Q(k)k=b(41959)V=v[N[4]]S,Q,m=7763152,{[k]=V},L[m]m=m(L,H,q,Q)L=b(41936)L=m[L]L=L(m)elseif 15881704>S then S=v[N[1]]L=M[1]m=S(L)H=m m=b(41745)S=K[m]m=S(H)S=m and 4611998 or 1702557 else q,L,X=b(41847),M[1],b(41637)Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41820)q=k[V]H=Q==q m,S=H,H and 11584697 or 13316973 end else if S>15728480 then if S<15762259 then S=p and 13658982 or 13415829 else k,p=V(q,k)S=k and 14219081 or 16090965 end else if S<15652343 then q,m=b(41766),b(41797)S=K[m]Q=K[q]k=v[N[1]]q={Q(k)}Q={S(e(q))}m,H,S,L=Q[1],Q[3],3911086,Q[2]Q=m elseif S<15680588 then P,p,S=b(41700),b(41698),8294771 p=V[p]p=p(V,P)X=p else r,S=b(41884),b(41698)S=P[S]S=S(P,r)r=S u,S=r,r and 5444901 or 14668478 end end end else if 15996189>S then if S<15903421 then S=v[N[1]]X,H=b(41854),b(41842)V=K[X]X=b(41910)k=V[X]V=b(41905)q=k[V]k=b(41952)Q=q..k L=H..Q m=S(L)L=m m=b(41745)S=K[m]m=S(L)S=m and 2698186 or 232637 elseif S<15939847 then m,H=b(41679),b(41721)S=K[m]L=K[H]k=b(41947)Q=v[N[1]]q={Q(k)}H={L(e(q))}m=S(e(H))L=m m,S=L,L and 15084163 or 12868354 elseif 15971316>S then s=b(41671)z=K[s]s,S=b(41871),7467180 D=z[s]s=b(41735)z=D(T,s)c=not z U=c else S=8018853>6041562 m={S}S=K[b(41811)]end else if S<16050161 then H=b(41817)L=K[H]H=b(41941)m=L[H]L=b(41955)S=m~=L S=S and 2991611 or 14773957 elseif 16096167>S then q=not Q S=q and 2605316 or 11404956 elseif 16125869>S then V,X,S=nil,nil,15125476 else S=v[N[5]]p=b(41671)X=K[p]p=b(41799)V=X[p]p=b(41824)X={V(p,q,k)}m=S(e(X))m=b(41970)S=K[m]m=S()S=5573090 v[N[4]]=m end end end else if 16624290>S then if 16484175>S then if 16245168>S then D,c,p,C=b(41726),b(41742),u,S c=T[c]c=c(T,D)U,S=c,c and 13669983 or 7551703 elseif 16288496>S then S=m and 3608211 or 11389691 elseif 16369215>S then r,u=p(P,r)S=r and 4155469 or 9112794 else u,S=b(41637),P X[m]=p A,m=0,b(41681)r=K[u]u=b(41681)P=r[u]r=b(41942)p=P[r]P,T=b(41738),0 X[m]=p p,m=9,b(41841)X[m]=p p=K[P]S,u,P=K[b(41765)],b(41713),b(41834)m=p[P]P=b(41914)p=m(P,X)r=K[u]u,m=b(41834),b(41958)P=r[u]u=1 r=P(u,A)p[m]=r P=b(41738)p=K[P]P=b(41834)m=p[P]P=b(41726)p=m(P,Q)U,u,A,m,P=14,b(41647),-38,b(41882),1 p[m]=P r=K[u]u,m=b(41834),b(41959)P=r[u]u=1 r=P(u,A,T,U)p[m]=r m,T,A,u=b(41646),0,32,b(41647)r=K[u]u=b(41834)P=r[u]U,u=18,0 r=P(u,A,T,U)P=b(41955)p[m]=r m=b(41876)p[m]=P r=v[N[3]]u,m=b(41720),b(41929)P=r[u]p[m]=P m,A=b(41681),b(41637)u=K[A]A=b(41681)r=u[A]u=b(41655)P=r[u]p[m]=P P,m=11,b(41841)p[m]=P A=b(41637)u=K[A]A=b(41858)r=u[A]u=b(41879)P=r[u]u,r,A,m=b(41663),b(41723),b(41782),b(41858)p[m]=P m=v[N[1]]P={[r]=Q;[u]=p,[A]=X}m[L]=P P=v[N[1]]m=P[L]m={m}end else if 16522866>S then S,m=K[b(41840)],{H}elseif S<16553056 then p=b(41688)S=v[N[1]]m=S()L=m m,S=0,0 Q=m m,H=b(41797),S S=K[m]V=v[N[2]]p=V[p]X={p(V)}V={S(e(X))}S,m,q,k=4973443,V[1],V[2],V[3]V=m elseif 16591760>S then q=b(41874)q=L[q]q=q(L)H,S=q,11404956 else m,S=H,Q S=2387219 end end else if S>16689102 then if 16704584>S then S,P,p=13415829,nil,nil elseif 16725547>S then q,X=k(Q,q)S=q and 6102334 or 15525964 elseif 16758699>S then u=b(41671)r=K[u]S,u=906935,b(41871)P=r[u]u=b(41757)r=P(X,u)p=r else S=O()X=b(41742)v[S]=V k,V,p=q,S,b(41985)S=v[V]X=S[X]X=X(S,p)S=X and 2105011 or 14930978 end else if S<16647864 then H,k=Q(L,H)S=H and 9679969 or 14723916 elseif S<16655262 then X,q,L=b(41637),b(41847),M[1]Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41903)q=k[V]H=Q==q m,S=H,H and 9709016 or 3858488 elseif S<16670734 then L,m=b(41973),b(41817)S=K[m]q,m=b(41767),b(41863)m=S[m]m=m(S,L)L=v[N[1]]Q=K[q]q=b(41834)H=Q[q]S,q=b(41880),.15 Q=H(q)S=m[S]k=v[N[2]]q=b(41664)H={[q]=k}S=S(m,L,Q,H)m=b(41936)m=S[m]m=m(S)S,m=K[b(41818)],{}else S=v[N[1]]m=b(41849)m=S[m]m=m(S)m,S={},K[b(41861)]end end end end end end else if S<10700317 then if 9694492>S then if S>9186531 then if S>9354975 then if 9517250>S then if S<9368752 then m,Q=b(41877),b(41756)S=K[m]L=v[N[1]]H=L(Q)L=b(41734)m=S(H,L)S,m=K[b(41986)],{}elseif 9419538>S then S=v[N[1]]H={S()}m,L=H[1],H[2]H=m S=H and 9183176 or 12015833 elseif 9487343>S then S=4303163 else S=d S,x=12183095,J end else if S<9572539 then r,S=u,A S=5601817 elseif 9647232>S then q,V=H(Q,q)S=q and 12676543 or 871388 elseif S<9677871 then T=b(41671)A=K[T]T,U=b(41871),b(41876)u=A[T]T=X[U]U=b(41633)A=u(T,U)S,P=5052775,A else P,p=b(41742),S P,q,r=k[P],H,b(41726)P=P(k,r)X,S=P,P and 10551358 or 12546158 end end else if S<9253675 then if S>9232193 then if 9250496>S then Q=b(41902)H=K[Q]Q=b(41950)m=H[Q]H=m()S=H-L H=S m=v[N[2]]S=m-H m,Q=0,S S=Q>m S=S and 14203784 or 15562933 else S=12397681 end else if S<9191942 then r,T=b(41679),b(41821)P=K[r]A=Q[T]S,T=2603855,b(41785)u=A[T]r=P(u)P=6 p=r>=P V=p elseif S<9204845 then m=b(41783)S=H[m]H=S S=13315353 else S,D=15323556,b(41671)c=K[D]D=b(41871)C=c[D]D=b(41731)c=C(P,D)T=c end end else if 9263116>S then S=k q[S]=m m,S,u=0,b(41693),0 q[S]=m k=b(41738)m=K[k]k=b(41834)S=m[k]k,p,X=b(41914),0,b(41713)m=S(k,q)V=K[X]r,S,X=0,b(41958),b(41834)k=V[X]X=1 V=k(X,p)m[S]=V k=b(41738)m=K[k]X,k=b(41647),b(41834)S=m[k]k=b(41726)m=S(k,Q)S,k=b(41882),m m,p,P=1,22,1 k[S]=m V=K[X]S,X=b(41959),b(41834)m=V[X]X=0 V=m(X,p,P,r)X,p=b(41647),8 k[S]=V r,S,P=0,b(41646),0 V=K[X]X=b(41834)m=V[X]X=0 V=m(X,p,P,r)k[S]=V S=b(41876)V,P=S,b(41740)X,p=H and P,S p=b(41725)m=X or p k[S]=m V,P,m=14,b(41637),b(41841)k[m]=V m=b(41681)p=K[P]P=b(41681)X=p[P]p=b(41942)V=X[p]k[m]=V X=b(41738)V=K[X]r,X=-38,b(41834)m=V[X]A,X=15,b(41726)V=m(X,Q)m,X=b(41882),1 V[m]=X P=b(41647)p=K[P]P,m=b(41834),b(41959)X=p[P]P=1 p=X(P,r,u,A)V[m]=p P,m=b(41647),b(41646)p=K[P]r,P,A=32,b(41834),3 X=p[P]P,u=0,0 p=X(P,r,u,A)V[m]=p X,m=L,b(41876)V[m]=X P,m,r=b(41691),b(41929),b(41637)p=v[N[3]]X=p[P]V[m]=X P=K[r]m,r=b(41681),b(41681)p=P[r]P,r=b(41942),b(41637)X=p[P]V[m]=X m,u,X=b(41841),S,12 V[m]=X P=K[r]m,r=b(41858),b(41858)p=P[r]P=b(41879)X=p[P]P,p=S,b(41738)V[m]=X X=K[p]p=b(41834)m=X[p]p,S=b(41726),H and 9978740 or 12183390 X=m(p,Q)r,m=H,b(41664)elseif S<9303068 then S=15755973 u=v[N[2]]r=u[X]P=not r p=P elseif S<9340263 then Q=b(41742)Q,q=H[Q],b(41658)Q=Q(H,q)S,m=Q and 15213646 or 1730925,Q else u,U,T,S,A=nil,nil,nil,3402206,nil end end end else if S>8810960 then if S<9039893 then if 8872359>S then S=u u,A=r,S S=r and 13602816 or 15184999 elseif S<8961960 then L=O()H=y(659014,{N[1];L;N[2]})m=b(41712)v[L]=M[1]S=K[m]L=I(L)m=S(H)m,S={},K[b(41800)]elseif 9016058>S then S=14836391>=16228214 m={S}S=K[b(41956)]else S=v[N[2]]Q=b(41865)m=S(Q)S=v[N[4]]Q=30 m=S(Q)S=12422698 end else if 9082755>S then S=v[V]bU,m=b(41728),b(41918)m=S[m]m=m(S,bU)bU=m S=bU and 347423 or 7207715 elseif S<9147985 then X=v[V]S=X and 1083599 or 9990568 elseif S<9183487 then m=b(41938)S=L==m S=S and 6291029 or 7497335 else m=b(41766)S=K[m]S=S and 15644496 or 12397681 end end else if S<8654278 then if 8637288>S then if 8593373>S then S=v[N[1]]m=S()S=v[N[2]]m,L=b(41876),b(41835)S[m]=L m,S={},K[b(41677)]elseif S<8619701 then S,C=2123642,U else S,u=13137072,b(41742)u,A=p[u],b(41649)u=u(p,A)P=u end else if S<8645735 then c=b(41745)C=K[c]c=C(p)S,T=2557072,c else S,X,q=5409834,b(41637),b(41847)Q=L[q]V=K[X]X=b(41847)k=V[X]V=b(41908)q=k[V]H=Q==q m=H end end else if 8693522>S then L,S,m=nil,K[b(41940)],{}elseif 8748806>S then S={}L,m=S,b(41797)S=K[m]V=b(41844)q=v[N[1]]V=q[V]k={V(q)}q={S(e(k))}m,H,Q=q[1],q[2],q[3]q,S=m,1312517 elseif S<8783007 then H,r=b(41646),b(41710)m=L[H]p=b(41710)H=v[N[3]]S=m-H A,m,k,H=b(41632),b(41646),b(41647),S S=v[N[4]]q=K[k]k=b(41834)Q=q[k]X=v[N[5]]V=X[p]X=b(41895)k=V[X]P=v[N[5]]p=P[r]P,r=b(41695),b(41632)X=p[P]P=b(41710)p=H[P]V=X+p P=v[N[5]]p=P[r]P=b(41895)X=p[P]u=v[N[5]]r=u[A]u=b(41695)P=r[u]u=b(41632)r=H[u]p=P+r q=Q(k,V,X,p)H=nil S[m]=q S=7936386 else m,S={},K[b(41709)]end end end end else if S>10268279 then if S<10631858 then if S>10524982 then if S<10531039 then L=b(41651)m=K[L]L=b(41873)S=m[L]L=5 m=S(L)S=m and 3158278 or 4818239 elseif 10542717>S then k,S=8419400<11644916,15391330 v[N[2]]=k elseif S<10586273 then S=p S,V=X and 594264 or 12546050,X else X=nil p=I(p)S=14930978 end else if S<10398741 then E=b(41671)t=K[E]E=b(41871)l=t[E]S,E=10190926,b(41830)t=l(T,E)f=t elseif 10492331>S then H=v[N[2]]S,m=b(41661),b(41898)S=L[S]S=S(L,m,H)S=12682661>10061407 v[N[3]]=S S=8659368 elseif S<10513300 then S=2125158>3817688 L=O()H=j(15886760,{N[1];L})v[L]=S m=b(41712)S=K[m]m=S(H)S=v[L]m={S}S=K[b(41981)]else m=b(41783)S=H[m]H=S S=5823638 end end else if S<10692172 then if 10649740>S then C,c,A=b(41906),b(41698),b(41721)u=K[A]A=u(p)c=A[c]c={c(A,C)}U,T,u=c[3],c[2],c[1]c=S S,C=u and 8607108 or 2123642,u elseif S<10669137 then S=m and 10480025 or 8659368 elseif S<10684656 then S,m,L=K[b(41798)],{},nil else L=b(41651)m=K[L]L=b(41873)S=m[L]L=3 m=S(L)S=m and 14146197 or 2424011 end else if 10697089>S then L=b(41845)m=K[L]H=v[N[1]]L=m(H)S=not L S=S and 8280948 or 8796079 elseif S<10698603 then m,S=3183494<16514875,K[b(41980)]m={m}elseif 10699700>S then u=v[N[3]]A,S=b(41904),13013507 r=u[A]p=r else S=v[N[2]]u=13009414<=13336380 S[X]=u S=9884409 end end end else if S<9984654 then if S>9867970 then if S<9900799 then r,S=nil,16698363 elseif 9945599>S then S=m and 1702118 or 896564 elseif S<9976374 then S,r=11026002,P else U=b(41935)T=v[N[3]]A=T[U]S,r=12183390,A end else if S>9807282 then if S<9833083 then L=b(41730)S=v[N[2]]m=S(L)S=1696574 else L=b(41814)S=v[N[2]]m=S(L)m,S={},K[b(41674)]end else if S<9734012 then S=m and 5688664 or 8285115 elseif S<9779468 then k,Q=b(41647),b(41738)m=K[Q]Q=b(41834)S=m[Q]q=v[N[2]]Q=b(41658)m=S(Q,q)S,Q,p=b(41852),m,34 m,V=L,0 Q[S]=m q=K[k]k,S=b(41834),b(41959)m=q[k]X,k=0,1 q=m(k,V,X,p)X,k=8,b(41860)Q[S]=q q=v[N[3]]S=b(41664)m=q[k]Q[S]=m m,S,q=0,b(41693),b(41738)Q[S]=m m=K[q]q=b(41834)S=m[q]q=b(41914)m=S(q,Q)S,V=b(41958),b(41713)k=K[V]V=b(41834)q=k[V]V=0 k=q(V,X)q=b(41738)m[S]=k m=K[q]V,p,q,P=b(41647),1,b(41834),-10 S=m[q]q=b(41658)m=S(q,Q)X=3 k=K[V]S,V,q=b(41959),b(41834),m m=k[V]V=0 k=m(V,X,p,P)P,X=5,0 q[S]=k S,V=b(41646),b(41647)k=K[V]V=b(41834)m=k[V]p,V=0,0 k=m(V,X,p,P)q[S]=k S=b(41664)X,k,V=S,S,H S=H and 6022140 or 1578277 else x,F=b(41723),0 d,f=c and F,S z=v[N[3]]s=z(r,c)z=s[x]f,x,J=1,b(41805),S n=d or f z[x]=n f,x=S,b(41663)z=s[x]J=S S,x,d=D and 1718564 or 6497357,b(41876),D end end end else if S>10128190 then if S<10186753 then m,S={},K[b(41792)]elseif S<10190592 then S=X X={S(V)}q,k,m=X[2],X[3],X[1]V,S=m,102709 elseif 10205013>S then S=F S,J=9508114,f else S=m and 11306778 or 10697827 end else if S<10004235 then u=b(41970)r=K[u]U=b(41854)u=r()T=K[U]U=b(41917)r=T[U]P=u-r r=5 p=P>r S=p and 3166727 or 12279890 elseif S<10036165 then Q=v[N[1]]L=M[1]H=L==Q S,m=H and 132205 or 13742245,H elseif 10063780>S then S=v[N[2]]H=b(41702)m=S(H)S=9466573 else S=b(41722)S=bU[S]S=S(bU)S=1734600 end end end end end else if 11824000>S then if S<11197952 then if S<10937030 then if 10848079>S then if S<10776439 then if S<10701451 then L,H=b(41817),b(41717)m=K[L]L=b(41863)L=m[L]L=L(m,H)m=b(41945)S=L[m]L=S S=v[N[1]]m=S()H=m S=H and 143757 or 7262407 elseif 10713131>S then L=I(L)S=10528002 else L,H,S,m=nil,nil,K[b(41828)],{}end else if 10830508>S then C,D=S,b(41876)c=T[D]U,S=c,c and 1825113 or 15443084 else S=1512126>13161543 v[N[1]]=S S=5133618 end end else if S<10872415 then L=b(41651)m=K[L]L=b(41873)S=m[L]L=15 m=S(L)S=m and 4480913 or 587855 elseif 10893629>S then Q,S,H=nil,232637,nil elseif S<10909949 then m,S={},K[b(41960)]else c,z=S,b(41777)D=X[z]C,S=D,D and 2942943 or 750436 end end else if S<11029711 then if 10981675>S then H=b(41712)Q=j(9183799,{N[2];L,N[3]})S=K[H]H=S(Q)S=v[L]m={S}S=K[b(41859)]elseif 11011831>S then A=b(41720)S=v[N[3]]r=v[N[2]]u=b(41852)P=r[u]r=12466774<12925280 p=S(P,r)P=b(41723)S=p[P]r,P=0,b(41805)S[P]=r r,P=V,b(41663)S=p[P]P=b(41876)S[P]=r P=b(41663)S=p[P]u=v[N[4]]r=u[A]P=b(41929)S[P]=r p,r=nil,b(41852)P=v[N[2]]S=P[r]P=12189899~=16233104 L[S]=P P=1 S=H+P H=S S=7455445 elseif 11023475>S then X,u=nil,nil U=I(U)T,S=nil,9112794 else S=r and 15700987 or 16698363 end else if S<11046028 then S=v[N[1]]Q=b(41817)H=K[Q]m,Q=b(41978),b(41857)L=H[Q]H=v[N[2]]m=S[m]Q=v[N[3]]m=m(S,L,H,Q)S,m=K[b(41669)],{}elseif 11092869>S then H=b(41854)L=O()v[L]=M[1]m=K[H]H=b(41867)S=m[H]S=S and 4319611 or 609472 elseif 11161609>S then Q=b(41744)m=v[N[1]]L=M[1]H=Q..L S=m..H m={S}S=K[b(41729)]else Q,V=q(H,Q)S=Q and 14747332 or 10960638 end end end else if S>11408158 then if S>11559744 then if 11597906>S then S=m and 13304243 or 4632523 elseif S<11643893 then L=a(7424929,{N[1]})m=b(41712)S=K[m]m=S(L)m,S={},K[b(41971)]elseif S<11694391 then S,L=5823638,M[1]H=L else p,S=nil,3121041 end else if S<11450187 then m=b(41876)S=v[N[2]]L=b(41838)S[m]=L S=13527837 elseif S<11489805 then S=u S,p=r and 16446958 or 1385256,r elseif S<11512694 then f=b(41671)d=K[f]f,n=b(41871),S J=d[f]f=b(41963)d=J(T,f)S,x=d and 12183095 or 15010758,d else S,u=U,T S=15112444 end end else if S>11329184 then if 11356181>S then V,X,k=b(41918),b(41821),S V=Q[V]V=V(Q,X)S,q=V and 14597062 or 4628565,V elseif 11382891>S then m=b(41745)S=K[m]L=v[N[1]]Q=b(41736)H={L(Q)}m=S(e(H))S=m and 1916233 or 11935888 elseif 11397323>S then m,S,L={},K[b(41916)],nil else S=Q and 1592543 or 5461289 end else if 11290675>S then if S<11220464 then L=b(41651)m=K[L]L=b(41873)S=m[L]L=3 m=S(L)S=m and 12588568 or 10906476 elseif 11257856>S then P=1 S=Q+P Q=S S=2660649 else S=r S=P and 13926939 or 6451497 end else if S<11314437 then Q=b(41777)m=H[Q]S=not m S=S and 12259604 or 10521963 else S,r=7728452,b(41777)P=X[r]p=P end end end end end else if S<12401937 then if S>12188922 then if S<12250982 then if S<12209490 then S=m and 10832111 or 5133618 elseif 12231739>S then m,S={},K[b(41922)]elseif S<12240657 then S,m=K[b(41982)],{}else p,P=b(41876),b(41804)S=X[p]p=b(41698)p=S[p]p=p(S,P)S,P=p and 6387287 or 116671,p end else if 12269747>S then S=12422496<3392568 m={S}S=K[b(41808)]elseif S<12281567 then S=425385 elseif 12340462>S then p,q,S=nil,nil,1822133 else S,m=K[b(41634)],{}end end else if S>12016230 then if S<12061030 then Q,H,S=nil,nil,5699755 elseif S<12144264 then q=b(41847)Q=L[q]X=b(41637)V=K[X]X=b(41847)k=V[X]V,S=b(41908),12194455 q=k[V]H=Q==q m=H elseif 12183242>S then z,S=x,n S=862039 else S,p=u,r S=r and 13013507 or 10699380 end else if 11975842>S then if 11945014>S then S=v[N[7]]L=S()S=12224525 elseif 11959825>S then S,u,r=15792577,b(41649),b(41742)r=p[r]r=r(p,u)P=r else Q,m=b(41626),b(41745)S=K[m]L=v[N[3]]H={L(Q)}m=S(e(H))S=m and 1014331 or 9814636 end else if 12001003>S then H=b(41742)H,Q,S=L[H],b(41913),10656954 H=H(L,Q)m=H else S,H,L=6558013,nil,nil end end end end else if 12583382>S then if S>12546104 then if S<12553448 then P,S=b(41742),10551358 P,r=k[P],b(41649)P=P(k,r)X=P elseif S<12567154 then L=I(L)S=10528002 elseif S<12575883 then S=8151475>=3229376 H=S S=2115270 else V,m=b(41874),b(41797)V,S=L[V],10060365<1144791 H=S S=K[m]k={V(L)}V={S(e(k))}m,S,Q=V[1],15125476,V[2]k,q=m,V[3]end else if 12412135>S then S=m and 1551787 or 8000215 elseif 12420388>S then S=L v[N[1]]=S S=10681321 elseif S<12484374 then S=12015833 else S=V and 15525243 or 13979423 end end else if 12698966>S then if S<12606533 then m=b(41712)L=w(1833492,{N[1];N[2];N[3],N[4],N[5],N[6],N[7]})S=K[m]m=S(L)S=11199789 elseif 12650520>S then H=b(41794)S=v[N[1]]k=v[N[2]]V=b(41852)q=k[V]k=b(41952)Q=q..k L=H..Q m=S(L)L=m m=b(41745)S=K[m]m=S(L)S=m and 13578987 or 4998490 elseif S<12682275 then k,p=q,b(41639)X=K[p]p=b(41951)S=X[p]k=nil X=S(L,V)S,V=9618691,nil else q=b(41984)S=v[N[2]]H,Q,L=nil,nil,nil m=S(q)S=311315 end else if 12715957>S then P,S=u,A S=11274573 elseif S<12732898 then m=b(41854)S=K[m]m,L=b(41630),4908264<=7746138 S[m]=L S=8317593 elseif S<12751233 then S=7347441 else m=b(41783)S=H[m]H=S S=2845534 end end end end end end end end end S=#Z return e(m)end,function(K,b)local e=V(b)local M=function(M,N,Z,h)return S(K,{M;N,Z,h},b,e)end return M end return(q(6616647,{}))(e(m))end)(unpack or table[b(41988)],{...},getmetatable,getfenv and getfenv()or _ENV,select,setmetatable,newproxy)end)(...)
+-- [[ สคริปต์ V28 (Fix 100%): All-in-One + Timer UI + Workspace Cooldown Sync ]]
+
+--------------------------------------------------
+-- ⚙️ CONFIGURATION: ตั้งค่าการทำงาน
+--------------------------------------------------
+_G.AutoSyncConfig = {
+    MainUsername = "Famasuna49836", -- ⚠️ เปลี่ยนเป็น Username ของไอดี Main ตรงนี้!
+    CheckIntervalMinutes = 1,      -- ⏱️ ตั้งเวลาเช็คคนในห้อง (หน่วยเป็นนาที)
+    MaxOtherPlayers = 2,            -- 👥 จำนวน "คนนอก" (ไม่ใช่ไอดีตัวเอง) สูงสุดที่ยอมให้อยู่ในเซิฟก่อนหาห้องใหม่
+    OwnAccountUsernames = {         -- 🧑‍🤝‍🧑 รายชื่อไอดีรอง (Alt) ทุกตัวของตัวเอง
+        "Ylthar64258hue",
+        "Calon25585piej",
+    },
+
+    -- 🧑‍🌾 HelperNameList: ตั้งค่าเกี่ยวกับตัวช่วยฟาร์ม (ยังไม่ถูกใช้งานจริงในสคริปต์ตอนนี้ เตรียมไว้สำหรับต่อยอด)
+    HelperNameList = {
+        V4FarmList = {           -- 🎯 รายชื่อตัวฟาร์ม (มอนสเตอร์) ที่ต้องการให้เล็ง ใส่ชื่อเป็น string ทีละตัว
+            -- "ชื่อมอนสเตอร์ 1",
+            -- "ชื่อมอนสเตอร์ 2",
+        },
+        AutoFindFarmList = false, -- ปรับเป็น true จะหาตัวฟาร์มเองโดยไม่ต้องเติมชื่อใน V4FarmList
+                                   -- แต่อาจฟาร์มช้าลงเพราะสุ่มตำแหน่งฟาร์มเอง
+        TaskAfterTier10 = function() -- 🏁 เรียกใช้เมื่อถึง Tier 10 แล้ว ถ้าไม่ต้องการให้ทำอะไรให้ปล่อยว่างไว้
+            -- ตัวอย่าง: game.Players.LocalPlayer:Kick("ถึง Tier 10 แล้ว")
+            -- ตัวอย่าง: _G.Horst_AccountChangeDone()
+        end,
+    },
+}
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local TeleportService = game:GetService("TeleportService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local CoreGui = game:GetService("CoreGui")
+local GuiService = game:GetService("GuiService")
+local VIM = game:GetService("VirtualInputManager")
+local UserInputService = game:GetService("UserInputService")
+
+-- 📁 เก็บไฟล์ทั้งหมดของสคริปต์นี้ไว้ในโฟลเดอร์เดียว ไม่ให้ปนกับไฟล์อื่นใน workspace
+local DATA_FOLDER = "AutoSyncData"
+pcall(function()
+    if not isfolder(DATA_FOLDER) then makefolder(DATA_FOLDER) end
+end)
+local function dataPath(filename)
+    return DATA_FOLDER .. "/" .. filename
+end
+
+local isMain = (LocalPlayer.Name == _G.AutoSyncConfig.MainUsername)
+
+-- 🎨 ชุดสีธีมหลัก
+local Theme = {
+    BgTop        = Color3.fromRGB(30, 32, 42),
+    BgBottom     = Color3.fromRGB(20, 21, 28),
+    HeaderTop    = Color3.fromRGB(114, 88, 235),
+    HeaderBottom = Color3.fromRGB(82, 58, 209),
+    Accent       = Color3.fromRGB(140, 118, 255),
+    Card         = Color3.fromRGB(38, 40, 52),
+    CardStroke   = Color3.fromRGB(58, 60, 78),
+    TextMain     = Color3.fromRGB(240, 240, 245),
+    TextDim      = Color3.fromRGB(160, 162, 178),
+    Danger       = Color3.fromRGB(235, 82, 96),
+    DangerHover  = Color3.fromRGB(210, 60, 74),
+    Info         = Color3.fromRGB(72, 156, 235),
+    InfoHover    = Color3.fromRGB(52, 132, 210),
+    Success      = Color3.fromRGB(87, 214, 140),
+    Main         = Color3.fromRGB(255, 200, 87),
+}
+
+-- ==========================================
+-- 🛠️ ชุดฟังก์ชันควบคุมเมาส์และ Hub (ที่เคยขาดหายไป)
+-- ==========================================
+local function virtualClick(element)
+    pcall(function()
+        local inset = GuiService:GetGuiInset()
+        local x = element.AbsolutePosition.X + (element.AbsoluteSize.X / 2) + inset.X
+        local y = element.AbsolutePosition.Y + (element.AbsoluteSize.Y / 2) + inset.Y
+        VIM:SendMouseButtonEvent(x, y, 0, true, game, 1)
+        task.wait(0.1)
+        VIM:SendMouseButtonEvent(x, y, 0, false, game, 1)
+    end)
+end
+
+local function getCardFrame(element)
+    local current = element
+    while current do
+        if current:IsA("Frame") and current.Parent and current.Parent:IsA("ScrollingFrame") then
+            return current
+        end
+        current = current.Parent
+    end
+    return element.Parent
+end
+
+local function findTeddyHubUI()
+    local roots = {}
+    for _, g in pairs(CoreGui:GetChildren()) do table.insert(roots, g) end
+    if LocalPlayer:FindFirstChild("PlayerGui") then
+        for _, g in pairs(LocalPlayer.PlayerGui:GetChildren()) do table.insert(roots, g) end
+    end
+    
+    for _, g in pairs(roots) do
+        if g:IsA("ScreenGui") then
+            local uiName = g.Name:lower()
+            if string.find(uiName, "teddy") or string.find(uiName, "macaw") then
+                return g
+            end
+            -- เผื่อ Hub เปลี่ยนชื่อ หาจากข้อความ Discord ด้านในเอาชัวร์ๆ
+            local found = false
+            pcall(function()
+                for _, v in pairs(g:GetDescendants()) do
+                    if (v:IsA("TextLabel") or v:IsA("TextButton")) and v.Text then
+                        if string.find(v.Text:lower(), "6uddwybuh7") then
+                            found = true
+                            break
+                        end
+                    end
+                end
+            end)
+            if found then return g end
+        end
+    end
+    return nil
+end
+
+local function isReallyVisible(obj)
+    local current = obj
+    while current and current:IsA("GuiObject") do
+        if not current.Visible then return false end
+        current = current.Parent
+    end
+    return true
+end
+
+local function adjustScrollToElement(element)
+    local current = element.Parent
+    while current do
+        if current:IsA("ScrollingFrame") then
+            local elementY = element.AbsolutePosition.Y
+            local frameTop = current.AbsolutePosition.Y
+            local frameBottom = frameTop + current.AbsoluteSize.Y
+            if elementY > frameBottom - 35 then
+                current.CanvasPosition = Vector2.new(0, current.CanvasPosition.Y + 50)
+                return false
+            elseif elementY < frameTop + 35 then
+                current.CanvasPosition = Vector2.new(0, math.max(0, current.CanvasPosition.Y - 50))
+                return false
+            else return true end
+        end
+        current = current.Parent
+    end
+    return true
+end
+
+-- ==========================================
+-- 📁 ระบบไฟล์ Workspace
+-- ==========================================
+local function resetTimer()
+    pcall(function() writefile(dataPath("LastCheckTime.txt"), tostring(os.time())) end)
+end
+
+local function updateStatus(text)
+    if _G.AutoSyncStatusLabel then
+        pcall(function() _G.AutoSyncStatusLabel.Text = tostring(text) end)
+    end
+    pcall(function()
+        local role = isMain and "MAIN" or "ALT"
+        writefile(dataPath("Status_" .. LocalPlayer.Name .. ".txt"), table.concat({ tostring(os.time()), role, tostring(text) }, "|"))
+    end)
+end
+
+-- ไอดีที่ auto-detect ผ่านไฟล์ Status ต้อง "ตอบสนองล่าสุด" ภายในกี่วิ ถึงจะนับว่าออนไลน์อยู่จริง
+-- (ไม่นับไอดีที่ปิดสคริปต์ไปนานแล้ว/ไฟล์ค้างเก่าๆ ว่าเป็นไอดีตัวเองที่ยัง active อยู่)
+local OWN_ACCOUNT_FRESH_SECONDS = 90
+
+local function getOwnAccountNames()
+    local names = {}
+    -- ไอดีตัวเอง, Main, และไอดีที่ใส่ไว้ใน config มือ ให้นับว่าเป็นของตัวเองเสมอ
+    -- ไม่ว่าจะออนไลน์/ตอบสนองอยู่ตอนนี้หรือไม่ก็ตาม (เชื่อตามที่ผู้ใช้ระบุไว้)
+    names[LocalPlayer.Name] = true
+    names[_G.AutoSyncConfig.MainUsername] = true
+    for _, username in pairs(_G.AutoSyncConfig.OwnAccountUsernames or {}) do
+        names[username] = true
+    end
+    -- ส่วนที่ตรวจจับอัตโนมัติจากไฟล์ Status (ไม่ได้ใส่ไว้ใน config เอง)
+    -- จะนับว่าเป็นไอดีตัวเองก็ต่อเมื่อไฟล์นั้น "อัปเดตล่าสุด" ไม่เกิน OWN_ACCOUNT_FRESH_SECONDS วิ
+    -- (แปลว่ายังออนไลน์/ตอบสนองอยู่จริง) ถ้าไฟล์ค้างเก่าเกินไปจะไม่นับ เว้นแต่จะใส่ชื่อไว้ใน config แล้ว
+    pcall(function()
+        if listfiles then
+            for _, path in pairs(listfiles(DATA_FOLDER)) do
+                local fname = path:match("[^/\\]+$")
+                local username = fname and fname:match("^Status_(.+)%.txt$")
+                if username and not names[username] then
+                    local ok, content = pcall(readfile, path)
+                    if ok and content then
+                        local ts = content:match("^(%d+)|")
+                        if ts and (os.time() - tonumber(ts)) <= OWN_ACCOUNT_FRESH_SECONDS then
+                            names[username] = true
+                        end
+                    end
+                end
+            end
+        end
+    end)
+    return names
+end
+
+local function isOwnAccount(name, ownNames)
+    ownNames = ownNames or getOwnAccountNames()
+    return ownNames[name] == true
+end
+
+local function canHop()
+    if isfile(dataPath("HopCooldown.txt")) then
+        local cooldownEnd = tonumber(readfile(dataPath("HopCooldown.txt")))
+        if cooldownEnd and os.time() < cooldownEnd then return false end
+    end
+    return true 
+end
+
+local function setHopCooldown(seconds)
+    pcall(function() writefile(dataPath("HopCooldown.txt"), tostring(os.time() + seconds)) end)
+end
+
+local function isMainOnline()
+    local recent = false
+    pcall(function()
+        local path = dataPath("Status_" .. _G.AutoSyncConfig.MainUsername .. ".txt")
+        if isfile(path) then
+            local content = readfile(path)
+            local ts = content:match("^(%d+)|")
+            if ts and (os.time() - tonumber(ts)) < 20 then recent = true end
+        end
+    end)
+    return recent
+end
+
+local function canAltJoin()
+    local path = dataPath("AltJoinCooldown_" .. LocalPlayer.Name .. ".txt")
+    if isfile(path) then
+        local cooldownEnd = tonumber(readfile(path))
+        if cooldownEnd and os.time() < cooldownEnd then return false end
+    end
+    return true
+end
+
+local function setAltJoinCooldown(seconds)
+    pcall(function() writefile(dataPath("AltJoinCooldown_" .. LocalPlayer.Name .. ".txt"), tostring(os.time() + seconds)) end)
+end
+
+-- ==========================================
+-- 🏆 ระบบ "Tier 5 ไม่ต้องตาม"
+-- ==========================================
+local function getSkipHopPath(username)
+    return dataPath("SkipHop_" .. (username or LocalPlayer.Name) .. ".txt")
+end
+
+local function getSkipHop(username)
+    local path = getSkipHopPath(username)
+    if isfile(path) then
+        local ok, content = pcall(readfile, path)
+        return ok and content == "true"
+    end
+    return false
+end
+
+local function setSkipHop(value, username)
+    pcall(function() writefile(getSkipHopPath(username), value and "true" or "false") end)
+end
+
+local function joinServer(jobId)
+    local viaBrowser = false
+    pcall(function()
+        local browser = ReplicatedStorage:FindFirstChild("__ServerBrowser")
+        if browser and browser:IsA("RemoteFunction") then
+            browser:InvokeServer("teleport", jobId)
+            viaBrowser = true
+        end
+    end)
+    if not viaBrowser then
+        pcall(function() TeleportService:TeleportToPlaceInstance(game.PlaceId, jobId, LocalPlayer) end)
+    end
+    return viaBrowser
+end
+
+local function handleTeleportError()
+    local clicked = false
+    local errorCode = nil
+    pcall(function()
+        local promptGui = CoreGui:FindFirstChild("RobloxPromptGui")
+        if promptGui then
+            local errorFound = false
+            for _, desc in pairs(promptGui:GetDescendants()) do
+                if desc:IsA("TextLabel") and desc.Visible then
+                    if string.find(desc.Text, "772") or string.find(desc.Text, "full") or string.find(desc.Text, "Teleport Failed") then
+                        errorFound = true
+                    end
+                    local code = desc.Text:match("Error Code:%s*(%d+)")
+                    if code then errorCode = code end
+                end
+                if errorFound and desc:IsA("TextButton") and (desc.Text == "OK" or desc.Text == "Ok") and desc.Visible and not clicked then
+                    virtualClick(desc) -- [แก้] บังคับคลิกเลยไม่ต้องเช็คปลอดภัย
+                    clicked = true
+                    task.wait(1)
+                    pcall(function() GuiService:ClearError() end)
+                end
+            end
+        end
+    end)
+    return clicked, errorCode
+end
+
+
+--------------------------------------------------
+-- 🔵 โหมด NORMAL (ผู้ตาม)
+--------------------------------------------------
+if not isMain then
+    print("🚀 [Normal] เริ่มโหมดผู้ตาม")
+    local oldAltUi = CoreGui:FindFirstChild("AutoSyncAltStatusUI")
+    if oldAltUi then oldAltUi:Destroy() end
+
+    local AltScreenGui = Instance.new("ScreenGui")
+    AltScreenGui.Name = "AutoSyncAltStatusUI"
+    AltScreenGui.ResetOnSpawn = false
+    AltScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+    AltScreenGui.Parent = CoreGui
+
+    local AltFrame = Instance.new("Frame")
+    AltFrame.Name = "AltFrame"
+    AltFrame.Size = UDim2.new(0, 240, 0, 88)
+    AltFrame.Position = UDim2.new(0.5, -120, 0, 20)
+    AltFrame.BackgroundColor3 = Theme.BgTop
+    AltFrame.BorderSizePixel = 0
+    AltFrame.Parent = AltScreenGui
+
+    local AltCorner = Instance.new("UICorner")
+    AltCorner.CornerRadius = UDim.new(0, 12)
+    AltCorner.Parent = AltFrame
+
+    local AltGradient = Instance.new("UIGradient")
+    AltGradient.Rotation = 90
+    AltGradient.Color = ColorSequence.new({ ColorSequenceKeypoint.new(0, Theme.BgTop), ColorSequenceKeypoint.new(1, Theme.BgBottom) })
+    AltGradient.Parent = AltFrame
+
+    local AltSideBar = Instance.new("Frame")
+    AltSideBar.BorderSizePixel = 0
+    AltSideBar.Size = UDim2.new(0, 4, 1, -14)
+    AltSideBar.Position = UDim2.new(0, 6, 0, 7)
+    AltSideBar.BackgroundColor3 = Theme.Accent
+    AltSideBar.Parent = AltFrame
+
+    local AltBadge = Instance.new("TextLabel")
+    AltBadge.BackgroundTransparency = 1
+    AltBadge.Size = UDim2.new(1, -24, 0, 14)
+    AltBadge.Position = UDim2.new(0, 18, 0, 6)
+    AltBadge.Text = "🔹 ID รอง • " .. LocalPlayer.Name
+    AltBadge.TextColor3 = Theme.Accent
+    AltBadge.Font = Enum.Font.GothamBold
+    AltBadge.TextSize = 11
+    AltBadge.TextXAlignment = Enum.TextXAlignment.Left
+    AltBadge.Parent = AltFrame
+
+    local AltStatusLabel = Instance.new("TextLabel")
+    AltStatusLabel.BackgroundTransparency = 1
+    AltStatusLabel.Size = UDim2.new(1, -24, 0, 24)
+    AltStatusLabel.Position = UDim2.new(0, 18, 0, 22)
+    AltStatusLabel.Text = "🔵 รอเชื่อมต่อ..."
+    AltStatusLabel.TextColor3 = Theme.TextMain
+    AltStatusLabel.Font = Enum.Font.Gotham
+    AltStatusLabel.TextSize = 12
+    AltStatusLabel.TextXAlignment = Enum.TextXAlignment.Left
+    AltStatusLabel.Parent = AltFrame
+
+    _G.AutoSyncStatusLabel = AltStatusLabel
+
+    local Tier5Btn = Instance.new("TextButton")
+    Tier5Btn.Size = UDim2.new(1, -24, 0, 28)
+    Tier5Btn.Position = UDim2.new(0, 12, 0, 50)
+    Tier5Btn.AutoButtonColor = false
+    Tier5Btn.Font = Enum.Font.GothamBold
+    Tier5Btn.TextSize = 12
+    Tier5Btn.Parent = AltFrame
+    Instance.new("UICorner", Tier5Btn).CornerRadius = UDim.new(0, 8)
+
+    local function refreshTier5Btn()
+        if getSkipHop() then
+            Tier5Btn.BackgroundColor3 = Theme.Success
+            Tier5Btn.Text = "✅ Auto: Tier 6+ แล้ว • หยุดตาม"
+            Tier5Btn.TextColor3 = Color3.fromRGB(15, 40, 25)
+        else
+            Tier5Btn.BackgroundColor3 = Theme.Card
+            Tier5Btn.Text = "⏳ กำลังออโต้เช็ค Tier เผ่า..."
+            Tier5Btn.TextColor3 = Theme.TextMain
+        end
+    end
+    refreshTier5Btn()
+
+    Tier5Btn.MouseButton1Click:Connect(function()
+        setSkipHop(not getSkipHop())
+        refreshTier5Btn()
+        updateStatus(getSkipHop() and "🏆 (กดมือ) หยุดตาม Main" or "🔵 กลับมาตาม Main ตามปกติ")
+    end)
+
+    -- Auto check tier
+    task.spawn(function()
+        while task.wait(5) do
+            if getSkipHop() then continue end
+            local isTier6OrMore = false
+            pcall(function()
+                local player = game:GetService("Players").LocalPlayer
+                local bananaUI = findTeddyHubUI() -- Use same finder just in case
+                if bananaUI then
+                    for _, v in pairs(bananaUI:GetDescendants()) do
+                        if (v:IsA("TextLabel") or v:IsA("TextButton")) and v.Visible then
+                            local tierNum = v.Text:match("[Tt]iers%s*%-?%s*V4%s*:%s*(%d+)")
+                            if tierNum and tonumber(tierNum) >= 6 then isTier6OrMore = true; break end
+                        end
+                    end
+                end
+                if not isTier6OrMore then
+                    local data = player:FindFirstChild("Data")
+                    if data then
+                        if data:FindFirstChild("RaceV4") and tonumber(data.RaceV4.Value) and tonumber(data.RaceV4.Value) >= 6 then isTier6OrMore = true end
+                        if data:FindFirstChild("Tier") and tonumber(data.Tier.Value) and tonumber(data.Tier.Value) >= 6 then isTier6OrMore = true end
+                    end
+                end
+            end)
+            if isTier6OrMore then
+                setSkipHop(true)
+                refreshTier5Btn()
+                updateStatus("🏆 ระบบตรวจพบ Tier 6+! หยุดตามอัตโนมัติ")
+            end
+        end
+    end)
+
+    -- Drag UI
+    local altDragging, altDragInput, altDragStart, altStartPos
+    AltFrame.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            altDragging = true; altDragStart = input.Position; altStartPos = AltFrame.Position
+        end
+    end)
+    AltFrame.InputChanged:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then altDragInput = input end
+    end)
+    UserInputService.InputChanged:Connect(function(input)
+        if input == altDragInput and altDragging then
+            local delta = input.Position - altDragStart
+            AltFrame.Position = UDim2.new(altStartPos.X.Scale, altStartPos.X.Offset + delta.X, altStartPos.Y.Scale, altStartPos.Y.Offset + delta.Y)
+        end
+    end)
+    AltFrame.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then altDragging = false end
+    end)
+
+    updateStatus("🔵 เริ่มทำงาน รอ JobId จาก Main")
+    task.spawn(function()
+        while task.wait(15) do
+            pcall(function()
+                if getSkipHop() then updateStatus("🏆 Tier สูงแล้ว หยุดตาม Main"); return end
+                if isfile(dataPath("MainServer.txt")) then
+                    local targetJobId = readfile(dataPath("MainServer.txt"))
+                    if targetJobId and targetJobId ~= "" and game.JobId ~= targetJobId then
+                        if not isMainOnline() then updateStatus("⏳ รอ Main ยืนยันว่ายังอยู่เซิฟก่อนตาม")
+                        elseif not canAltJoin() then updateStatus("⏳ ติดคูลดาวน์การตาม Main รอสักครู่")
+                        else
+                            updateStatus("🚀 กำลังเดินทางตาม Main ไปเซิฟใหม่")
+                            setAltJoinCooldown(15)
+                            if joinServer(targetJobId) then updateStatus("🚀 สั่งเทเลพอร์ตผ่านเมนูเกม (server browser)") end
+                        end
+                    else updateStatus("🟢 อยู่เซิฟเดียวกับ Main แล้ว") end
+                else updateStatus("⌛ ยังไม่พบไฟล์ JobId ของ Main") end
+            end)
+        end
+    end)
+
+    task.spawn(function()
+        while task.wait(5) do
+            local clicked, errorCode = handleTeleportError()
+            if clicked then
+                if errorCode == "772" then
+                    updateStatus("⚠️ เจอเซิฟเต็ม กำลังแจ้ง Main ให้หาห้องใหม่")
+                    pcall(function() writefile(dataPath("ForceMainReset.txt"), "true") end)
+                    setAltJoinCooldown(20)
+                elseif errorCode == "773" then
+                    updateStatus("🚫 เข้าห้องไม่ได้ (ถูกจำกัดสิทธิ์ Error 773) กำลังรอแล้วลองใหม่")
+                    setAltJoinCooldown(30)
+                else
+                    updateStatus("⚠️ เทเลพอร์ตล้มเหลว กำลังลองใหม่")
+                    setAltJoinCooldown(15)
+                end
+            end
+        end
+    end)
+    return -- จบจอรอง
+end
+
+--------------------------------------------------
+-- 🔴 โหมด MAIN (ผู้นำ + สร้าง UI)
+--------------------------------------------------
+print("🌕 [Main] เริ่มโหมดผู้นำ พร้อม UI นับเวลา")
+updateStatus("🌕 เริ่มทำงานโหมด Main")
+
+_G.ForceFindNewServer = false 
+if not _G.FullMoonLastReload then _G.FullMoonLastReload = 0 end
+
+local oldUi = CoreGui:FindFirstChild("AutoSyncTimerUI")
+if oldUi then oldUi:Destroy() end
+
+local ScreenGui = Instance.new("ScreenGui")
+ScreenGui.Name = "AutoSyncTimerUI"
+ScreenGui.ResetOnSpawn = false
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.Parent = CoreGui
+
+local MainFrame = Instance.new("Frame")
+MainFrame.Name = "MainFrame"
+MainFrame.Size = UDim2.new(0, 250, 0, 320)
+MainFrame.Position = UDim2.new(0.5, -125, 0, 20)
+MainFrame.BackgroundColor3 = Theme.BgTop
+MainFrame.BorderSizePixel = 0
+MainFrame.ClipsDescendants = true
+MainFrame.Parent = ScreenGui
+Instance.new("UICorner", MainFrame).CornerRadius = UDim.new(0, 14)
+
+local Header = Instance.new("Frame")
+Header.Size = UDim2.new(1, 0, 0, 54)
+Header.BackgroundColor3 = Theme.HeaderTop
+Header.BorderSizePixel = 0
+Header.Parent = MainFrame
+Instance.new("UICorner", Header).CornerRadius = UDim.new(0, 14)
+
+local HeaderMask = Instance.new("Frame")
+HeaderMask.BackgroundColor3 = Theme.HeaderTop
+HeaderMask.BorderSizePixel = 0
+HeaderMask.Size = UDim2.new(1, 0, 0, 14)
+HeaderMask.Position = UDim2.new(0, 0, 1, -14)
+HeaderMask.ZIndex = Header.ZIndex
+HeaderMask.Parent = Header
+
+local TitleIcon = Instance.new("TextLabel")
+TitleIcon.BackgroundTransparency = 1
+TitleIcon.Size = UDim2.new(0, 26, 0, 20)
+TitleIcon.Position = UDim2.new(0, 12, 0, 8)
+TitleIcon.Text = "🌕"
+TitleIcon.TextSize = 18
+TitleIcon.Font = Enum.Font.GothamBold
+TitleIcon.Parent = Header
+
+local SubTitleLabel = Instance.new("TextLabel")
+SubTitleLabel.BackgroundTransparency = 1
+SubTitleLabel.Size = UDim2.new(1, -80, 0, 14)
+SubTitleLabel.Position = UDim2.new(0, 34, 0, 6)
+SubTitleLabel.Text = "AUTO SYNC SYSTEM"
+SubTitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+SubTitleLabel.TextTransparency = 0.35
+SubTitleLabel.Font = Enum.Font.GothamBold
+SubTitleLabel.TextSize = 11
+SubTitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+SubTitleLabel.Parent = Header
+
+local TitleLabel = Instance.new("TextLabel")
+TitleLabel.Name = "TitleLabel"
+TitleLabel.BackgroundTransparency = 1
+TitleLabel.Size = UDim2.new(1, -80, 0, 22)
+TitleLabel.Position = UDim2.new(0, 34, 0, 20)
+TitleLabel.Text = "⏱️ รอเช็คห้อง: --:--"
+TitleLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TitleLabel.Font = Enum.Font.GothamBold
+TitleLabel.TextSize = 14
+TitleLabel.TextXAlignment = Enum.TextXAlignment.Left
+TitleLabel.Parent = Header
+
+local MinimizeBtn = Instance.new("TextButton")
+MinimizeBtn.Size = UDim2.new(0, 26, 0, 26)
+MinimizeBtn.Position = UDim2.new(1, -34, 0, 14)
+MinimizeBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+MinimizeBtn.BackgroundTransparency = 0.85
+MinimizeBtn.Text = "—"
+MinimizeBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+MinimizeBtn.Font = Enum.Font.GothamBold
+MinimizeBtn.TextSize = 16
+MinimizeBtn.AutoButtonColor = false
+MinimizeBtn.Parent = Header
+Instance.new("UICorner", MinimizeBtn).CornerRadius = UDim.new(0, 7)
+
+local Body = Instance.new("Frame")
+Body.BackgroundTransparency = 1
+Body.Size = UDim2.new(1, 0, 1, -54)
+Body.Position = UDim2.new(0, 0, 0, 54)
+Body.Parent = MainFrame
+
+local function styleButton(btn, baseColor, hoverColor)
+    Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 10)
+    btn.AutoButtonColor = false
+    btn.BackgroundColor3 = baseColor
+    btn.MouseEnter:Connect(function() game:GetService("TweenService"):Create(btn, TweenInfo.new(0.15), {BackgroundColor3 = hoverColor}):Play() end)
+    btn.MouseLeave:Connect(function() game:GetService("TweenService"):Create(btn, TweenInfo.new(0.15), {BackgroundColor3 = baseColor}):Play() end)
+end
+
+local ResetBtn = Instance.new("TextButton")
+ResetBtn.Size = UDim2.new(0.5, -16, 0, 34)
+ResetBtn.Position = UDim2.new(0, 12, 0, 10)
+ResetBtn.Text = "🔄 รีเซ็ตเวลา"
+ResetBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+ResetBtn.Font = Enum.Font.GothamBold
+ResetBtn.TextSize = 13
+ResetBtn.Parent = Body
+styleButton(ResetBtn, Theme.Danger, Theme.DangerHover)
+
+local FindServerBtn = Instance.new("TextButton")
+FindServerBtn.Size = UDim2.new(0.5, -16, 0, 34)
+FindServerBtn.Position = UDim2.new(0.5, 4, 0, 10)
+FindServerBtn.Text = "🔎 หาเซิฟ"
+FindServerBtn.TextColor3 = Color3.fromRGB(255, 255, 255)
+FindServerBtn.Font = Enum.Font.GothamBold
+FindServerBtn.TextSize = 13
+FindServerBtn.Parent = Body
+styleButton(FindServerBtn, Theme.Info, Theme.InfoHover)
+
+local StatusTitle = Instance.new("TextLabel")
+StatusTitle.Size = UDim2.new(1, -24, 0, 18)
+StatusTitle.Position = UDim2.new(0, 12, 0, 52)
+StatusTitle.BackgroundTransparency = 1
+StatusTitle.Text = "📋 สถานะไอดีทั้งหมด (0)"
+StatusTitle.TextColor3 = Theme.TextDim
+StatusTitle.Font = Enum.Font.GothamBold
+StatusTitle.TextSize = 12
+StatusTitle.TextXAlignment = Enum.TextXAlignment.Left
+StatusTitle.Parent = Body
+
+local StatusScroll = Instance.new("ScrollingFrame")
+StatusScroll.Size = UDim2.new(1, -24, 1, -84)
+StatusScroll.Position = UDim2.new(0, 12, 0, 76)
+StatusScroll.BackgroundColor3 = Theme.Card
+StatusScroll.BorderSizePixel = 0
+StatusScroll.ScrollBarThickness = 3
+StatusScroll.ScrollBarImageColor3 = Theme.Accent
+StatusScroll.CanvasSize = UDim2.new(0, 0, 0, 0)
+StatusScroll.AutomaticCanvasSize = Enum.AutomaticSize.Y
+StatusScroll.Parent = Body
+Instance.new("UICorner", StatusScroll).CornerRadius = UDim.new(0, 10)
+local slayout = Instance.new("UIListLayout", StatusScroll)
+slayout.SortOrder = Enum.SortOrder.Name
+slayout.Padding = UDim.new(0, 4)
+local spad = Instance.new("UIPadding", StatusScroll)
+spad.PaddingTop, spad.PaddingBottom, spad.PaddingLeft, spad.PaddingRight = UDim.new(0, 6), UDim.new(0, 6), UDim.new(0, 6), UDim.new(0, 6)
+
+-- Dragging
+local dragging, dragInput, dragStart, startPos
+Header.InputBegan:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+        dragging = true; dragStart = input.Position; startPos = MainFrame.Position
+    end
+end)
+Header.InputChanged:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then dragInput = input end
+end)
+UserInputService.InputChanged:Connect(function(input)
+    if input == dragInput and dragging then
+        local delta = input.Position - dragStart
+        MainFrame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X, startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+    end
+end)
+Header.InputEnded:Connect(function(input)
+    if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then dragging = false end
+end)
+
+local minimized = false
+local expandedSize = MainFrame.Size
+MinimizeBtn.MouseButton1Click:Connect(function()
+    minimized = not minimized
+    if minimized then
+        MinimizeBtn.Text = "+"
+        game:GetService("TweenService"):Create(MainFrame, TweenInfo.new(0.2), {Size = UDim2.new(expandedSize.X.Scale, expandedSize.X.Offset, 0, 54)}):Play()
+    else
+        MinimizeBtn.Text = "—"
+        game:GetService("TweenService"):Create(MainFrame, TweenInfo.new(0.2), {Size = expandedSize}):Play()
+    end
+end)
+
+ResetBtn.MouseButton1Click:Connect(function()
+    resetTimer()
+    TitleLabel.Text = "⏱️ รีเซ็ตเวลาแล้ว!"
+end)
+
+FindServerBtn.MouseButton1Click:Connect(function()
+    if canHop() then
+        _G.ForceFindNewServer = true
+        TitleLabel.Text = "⏱️ กำลังหาห้อง..."
+        updateStatus("🔍 กดหาเซิฟด้วยตนเอง")
+    else
+        TitleLabel.Text = "⏳ ติดคูลดาวน์ รอสักครู่..."
+    end
+end)
+
+-- Main logic
+task.spawn(function()
+    while task.wait(5) do
+        if game.JobId ~= "" then pcall(function() writefile(dataPath("MainServer.txt"), tostring(game.JobId)) end) end
+    end
+end)
+
+local function checkCount()
+    local ownNames = getOwnAccountNames()
+    local otherCount, ownCount = 0, 0
+    for _, player in pairs(Players:GetPlayers()) do
+        if isOwnAccount(player.Name, ownNames) then ownCount = ownCount + 1 else otherCount = otherCount + 1 end
+    end
+    if otherCount > (_G.AutoSyncConfig.MaxOtherPlayers or 2) then
+        if canHop() then
+            _G.ForceFindNewServer = true
+            updateStatus("⚠️ คนนอกเกิน " .. otherCount .. " เปิดหาห้องใหม่")
+        else
+            updateStatus("⏳ คนนอกเกิน " .. otherCount .. " แต่ติดคูลดาวน์")
+        end
+    else
+        _G.ForceFindNewServer = false
+    end
+end
+
+if not isfile(dataPath("LastCheckTime.txt")) then resetTimer() end
+checkCount()
+Players.PlayerAdded:Connect(function() task.wait(2); checkCount() end)
+Players.PlayerRemoving:Connect(function() task.wait(2); checkCount() end)
+
+-- ตัวนับเวลาที่แก้บั๊กคูลดาวน์แล้ว [สำคัญมาก]
+task.spawn(function()
+    local intervalSeconds = _G.AutoSyncConfig.CheckIntervalMinutes * 60
+    local lastStatusPush = 0
+    while task.wait(1) do
+        pcall(function()
+            if isfile(dataPath("LastCheckTime.txt")) then
+                local lastTime = tonumber(readfile(dataPath("LastCheckTime.txt")))
+                if lastTime then
+                    local timePassed = os.time() - lastTime
+                    local timeLeft = intervalSeconds - timePassed
+                    
+                    if timeLeft > 0 then
+                        local mins, secs = math.floor(timeLeft / 60), timeLeft % 60
+                        TitleLabel.Text = string.format("⏱️ รอเช็คห้อง: %02d:%02d", mins, secs)
+                        if tick() - lastStatusPush > 5 then
+                            updateStatus(string.format("⏱️ รอเช็คห้อง %02d:%02d", mins, secs))
+                            lastStatusPush = tick()
+                        end
+                    else
+                        if canHop() then
+                            -- [แก้ 1] ลบคำสั่งเปิดคูลดาวน์ตรงนี้ออก ให้มันไปเปิดตอนกดเจอเซิฟสำเร็จเท่านั้น
+                            TitleLabel.Text = "⏱️ หมดเวลา! กำลังหาห้อง..."
+                            _G.ForceFindNewServer = true
+                            resetTimer() -- รีเซ็ตเวลาเพื่อเริ่มลูปสแกนเซิฟเวอร์ใหม่
+                            updateStatus("🔍 หมดเวลา กำลังหาห้องใหม่")
+                        else
+                            TitleLabel.Text = "⏳ ติดคูลดาวน์..."
+                            updateStatus("⏳ ติดคูลดาวน์ รอย้ายเซิฟ")
+                        end
+                    end
+                end
+            else
+                resetTimer()
+            end
+        end)
+    end
+end)
+
+task.spawn(function()
+    while task.wait(3) do
+        if handleTeleportError() then _G.ForceFindNewServer = true end
+        pcall(function()
+            if isfile(dataPath("ForceMainReset.txt")) and readfile(dataPath("ForceMainReset.txt")) == "true" then
+                _G.ForceFindNewServer = true
+                writefile(dataPath("ForceMainReset.txt"), "false")
+            end
+        end)
+    end
+end)
+
+-- [5] ลูปค้นหาเซิฟเวอร์ (Teddy Hub) - ฉบับทะลวงกด
+local isProcessing = false 
+
+task.spawn(function()
+    while task.wait(3) do
+        if isProcessing or not _G.ForceFindNewServer then continue end
+        updateStatus("🔎 กำลังหาปุ่มเปลี่ยนเซิร์ฟ...")
+        
+        local teddyUI = findTeddyHubUI()
+        if not teddyUI then updateStatus("⚠️ ไม่เจอหน้าต่าง Teddy Hub!"); continue end
+        
+        local elements = teddyUI:GetDescendants()
+        local onFullMoonTab = false
+        
+        -- เช็คว่าอยู่หน้า FullMoon หรือยัง
+        for _, v in pairs(elements) do
+            if v:IsA("TextLabel") or v:IsA("TextButton") then
+                local text = v.Text
+                if text and (string.find(text, "Reload server new") or string.find(text, "Refresh server with FullMoon")) and isReallyVisible(v) then
+                    onFullMoonTab = true; break
+                end
+            end
+        end
+        
+        -- ถ้ายังไม่อยู่ ให้หาปุ่มกดเข้าหน้า FullMoon
+        if not onFullMoonTab then
+            for _, v in pairs(elements) do
+                if v:IsA("TextLabel") or v:IsA("TextButton") then
+                    if v.Text == "FullMoon" and v.Parent.Name ~= "Header" and isReallyVisible(v) then
+                        if adjustScrollToElement(v) then virtualClick(v); task.wait(2); break end
+                    end
+                end
+            end
+            elements = teddyUI:GetDescendants()
+        end
+        
+        -- เมื่ออยู่หน้า FullMoon แล้ว ให้เริ่มสแกนคนน้อย
+        if onFullMoonTab then
+            local joined = false
+            local serverCount = 0
+            
+            for _, v in pairs(elements) do
+                if v:IsA("TextLabel") and string.find(v.Text, "Players:") and isReallyVisible(v) then
+                    serverCount = serverCount + 1
+                    local infoText = v.Text
+                    
+                    if (string.find(infoText, "Players: 1 ") or string.find(infoText, "Players: 2 ") or string.find(infoText, "Players: 1 |") or string.find(infoText, "Players: 2 |") or string.find(infoText, "Players: 1/") or string.find(infoText, "Players: 2/")) and not string.find(infoText, "Different Sea") then
+                        print("🎯 [Main] เจอเซิร์ฟเวอร์คนน้อยแล้ว! กำลังมุดเข้าห้อง...")
+                        local mainCard = getCardFrame(v)
+
+                        pcall(function()
+                            isProcessing = true
+                            task.wait(0.5)
+                            -- [แก้ 2] บังคับกดเมาส์ลงตรงนั้นเลยโดยไม่ต้องเช็คปลอดภัย กัน Hub ซ่อนปุ่ม
+                            virtualClick(mainCard)
+                            joined = true
+                        end)
+                        if joined then break end
+                    end
+                    if serverCount >= 3 then break end
+                end
+            end
+            
+            if joined then 
+                print("🚀 [Main] สั่งเข้าห้องสำเร็จ รอโหลดและรีเซ็ตเวลาใหม่...")
+                updateStatus("🚀 เข้าห้องใหม่สำเร็จ กำลังโหลด...")
+                _G.ForceFindNewServer = false
+                resetTimer()
+                
+                -- [แก้ 3] เมื่อกดเจอปุ่มเข้าห้องสำเร็จแล้วเท่านั้น ถึงค่อยล็อกคูลดาวน์ 120 วิ 
+                setHopCooldown(120) 
+                
+                task.wait(45) 
+                isProcessing = false 
+                updateStatus("🟢 อยู่ในห้องปัจจุบัน")
+            else
+                if tick() - _G.FullMoonLastReload > 5 then
+                    for _, v in pairs(elements) do
+                        if v:IsA("TextLabel") or v:IsA("TextButton") then
+                            if v.Text and string.find(v.Text, "Reload server new") and isReallyVisible(v) then
+                                virtualClick(v)
+                                _G.FullMoonLastReload = tick()
+                                task.wait(3); break
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end)
+
+-- UI Status Rendering (ลดรูปให้กระชับ)
+local statusRows = {}
+local function getOrCreateStatusRow(username, isMainRow)
+    if statusRows[username] then return statusRows[username] end
+    local card = Instance.new("Frame", StatusScroll)
+    card.Name = username; card.Size = UDim2.new(1, 0, 0, 34); card.BackgroundColor3 = Theme.BgTop; card.BorderSizePixel = 0
+    Instance.new("UICorner", card).CornerRadius = UDim.new(0, 8)
+    local sideBar = Instance.new("Frame", card); sideBar.Size = UDim2.new(0, 3, 1, -10); sideBar.Position = UDim2.new(0, 0, 0, 5); sideBar.BackgroundColor3 = isMainRow and Theme.Main or Theme.Accent; sideBar.BorderSizePixel = 0
+    Instance.new("UICorner", sideBar).CornerRadius = UDim.new(1, 0)
+    local roleIcon = Instance.new("TextLabel", card); roleIcon.BackgroundTransparency = 1; roleIcon.Size = UDim2.new(0, 22, 1, 0); roleIcon.Position = UDim2.new(0, 8, 0, 0); roleIcon.Text = isMainRow and "👑" or "🔹"; roleIcon.TextSize = 14; roleIcon.Font = Enum.Font.GothamBold
+    local nameLabel = Instance.new("TextLabel", card); nameLabel.BackgroundTransparency = 1; nameLabel.Size = UDim2.new(1, -38, 0, 15); nameLabel.Position = UDim2.new(0, 32, 0, 3); nameLabel.Text = username; nameLabel.TextColor3 = Theme.TextMain; nameLabel.Font = Enum.Font.GothamBold; nameLabel.TextSize = 12; nameLabel.TextXAlignment = Enum.TextXAlignment.Left
+    local badge = Instance.new("TextLabel", card); badge.BackgroundColor3 = isMainRow and Theme.Main or Theme.Accent; badge.BackgroundTransparency = 0.82; badge.Size = UDim2.new(0, isMainRow and 40 or 52, 0, 14); badge.Position = UDim2.new(1, isMainRow and -46 or -58, 0, 4); badge.Text = isMainRow and "MAIN" or "ID รอง"; badge.TextColor3 = isMainRow and Theme.Main or Theme.Accent; badge.Font = Enum.Font.GothamBold; badge.TextSize = 9
+    Instance.new("UICorner", badge).CornerRadius = UDim.new(1, 0)
+    local statusLabel = Instance.new("TextLabel", card); statusLabel.BackgroundTransparency = 1; statusLabel.Size = UDim2.new(1, -38, 0, 14); statusLabel.Position = UDim2.new(0, 32, 0, 18); statusLabel.Text = ""; statusLabel.TextColor3 = Theme.TextDim; statusLabel.Font = Enum.Font.Gotham; statusLabel.TextSize = 11; statusLabel.TextXAlignment = Enum.TextXAlignment.Left
+    statusRows[username] = { Card = card, StatusLabel = statusLabel, Badge = badge }
+    return statusRows[username]
+end
+
+task.spawn(function()
+    while task.wait(3) do
+        pcall(function()
+            local seen = {}
+            local totalCount = 0
+
+            -- รายชื่อที่ผู้ใช้ "ระบุไว้เองใน config" (Main + OwnAccountUsernames) จะแสดง/นับเสมอ
+            -- แม้จะไม่ตอบสนอง ณ ตอนนี้ก็ตาม ส่วนไอดีที่ auto-detect เจอเฉยๆ (ไม่ได้ใส่ config)
+            -- ถ้าไม่ตอบสนอง (ไฟล์ค้างเก่า) จะไม่โชว์/ไม่นับ ตามที่ตั้งไว้
+            local configuredNames = { [_G.AutoSyncConfig.MainUsername] = true }
+            for _, username in pairs(_G.AutoSyncConfig.OwnAccountUsernames or {}) do
+                configuredNames[username] = true
+            end
+
+            if isfile(dataPath("Status_" .. LocalPlayer.Name .. ".txt")) then
+                local content = readfile(dataPath("Status_" .. LocalPlayer.Name .. ".txt"))
+                local ts, role, txt = content:match("^(%d+)|(%a+)|(.+)$")
+                if ts and txt then
+                    local row = getOrCreateStatusRow(LocalPlayer.Name, true)
+                    row.Card.LayoutOrder = 0; row.StatusLabel.Text = txt; row.StatusLabel.TextColor3 = Theme.TextDim; seen[LocalPlayer.Name] = true; totalCount = totalCount + 1
+                end
+            end
+            if listfiles then
+                for _, path in pairs(listfiles(DATA_FOLDER)) do
+                    local fname = path:match("[^/\\]+$")
+                    local username = fname and fname:match("^Status_(.+)%.txt$")
+                    if username and username ~= LocalPlayer.Name and isfile(path) then
+                        local content = readfile(path)
+                        local ts, role, txt = content:match("^(%d+)|(%a+)|(.+)$")
+                        if ts and txt then
+                            local ago = os.time() - tonumber(ts)
+                            local isMainRow = (role == "MAIN")
+                            local stale = ago > 60
+
+                            -- ไม่ได้อยู่ใน config และไม่ตอบสนองแล้ว -> ข้ามไปเลย ไม่โชว์ ไม่นับ
+                            if stale and not configuredNames[username] then
+                                if statusRows[username] then statusRows[username].Card:Destroy(); statusRows[username] = nil end
+                            else
+                                local row = getOrCreateStatusRow(username, isMainRow)
+                                row.Card.LayoutOrder = isMainRow and 0 or 1; row.StatusLabel.Text = stale and (txt .. "  ⚠️ ไม่ตอบสนอง") or txt; row.StatusLabel.TextColor3 = stale and Theme.Danger or Theme.TextDim; row.Badge.BackgroundTransparency = stale and 0.5 or 0.82; seen[username] = true; totalCount = totalCount + 1
+                            end
+                        end
+                    end
+                end
+            end
+            for username, row in pairs(statusRows) do
+                if not seen[username] then row.Card:Destroy(); statusRows[username] = nil end
+            end
+            StatusTitle.Text = string.format("📋 สถานะไอดีทั้งหมด (%d)", totalCount)
+        end)
+    end
+end)
